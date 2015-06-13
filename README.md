@@ -19,7 +19,7 @@
 
 
 
-<!-- .slide: data-background="custom/images/xkcd-online-communities-map.png" -->
+<!-- .slide: data-background="custom/images/xkcd-online-communities-map.png" data-background-size="960px" -->
 
 
 
