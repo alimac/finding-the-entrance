@@ -3,10 +3,9 @@
 
 
 <!-- .slide: data-background="custom/images/tour-de-donut.jpg" -->
-Note:
-- Staunton, IL
-- two
-
+<aside class="ntoes">
+test
+</aside>
 
 
 # Finding the Entrance
