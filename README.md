@@ -11,7 +11,7 @@
 
 
 ## Finding the Entrance
-_Why and how to get involved in the Drupal community_
+####_Why and how to get involved in the Drupal community_
 
 
 
