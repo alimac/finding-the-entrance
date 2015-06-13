@@ -20,3 +20,192 @@
 
 
 <!-- .slide: data-background="custom/images/xkcd-online-communities-map.png" -->
+
+
+
+sea of opinions
+
+
+
+isle of drupal
+
+
+
+## How is Drupal made?
+
+
+x-ray
+
+
+
+patches
+
+
+
+bug report, feature, enhancement
+
+
+
+new issue
+
+
+
+me too
+
+
+
+issue summary
+
+
+
+screenshots
+
+
+
+first patch
+
+
+
+second patch
+
+
+
+coding standards
+
+
+
+review
+
+
+
+rtbc!
+
+
+
+micro/macro
+
+
+
+st. louis
+
+
+
+photo + quote
+
+
+
+midwest
+
+
+
+photo+quote
+
+
+
+around the world
+
+
+
+photo+quote
+
+
+
+another look at drupal isle
+
+
+
+support
+
+
+
+usability testing
+
+
+
+documentation
+
+
+
+translation
+
+
+
+front-end
+
+
+
+back-end
+
+
+
+marketing
+
+
+
+core initiatives
+
+
+
+attend events
+
+
+
+give talks
+
+
+
+help organize events
+
+
+
+start a meetup
+
+
+
+write blog posts
+
+
+
+make podcasts
+
+
+
+build a module
+
+
+
+donate
+
+
+
+join DA
+
+
+
+sponsor an event
+
+
+
+become a mentor
+
+
+
+encourage others
+
+
+
+my story
+
+
+
+global sprint weekend
+austin
+midcamp
+
+
+
+benefits
+
+
+
+tomorrow
