@@ -7,9 +7,7 @@
 
 
 <!-- .slide: data-background="custom/images/tour-de-donut.jpg" -->
-<aside class="ntoes">
-test
-</aside>
+
 
 
 # Finding the Entrance
