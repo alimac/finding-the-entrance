@@ -9,3 +9,29 @@
 .reveal h4 {
   text-transform: none;
 }
+
+.reveal .attribution {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  padding: 2px 15px;
+  display: inline-block;
+  position: absolute;
+  top: 5px 5px;
+}
+
+#attribution {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index:500;
+  padding: 0;
+  display: none;
+}
+
+.show-header #attribution {
+  display: block;
+  margin-top: 5px;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 0.25em .25em .25em 0.5em;
+  font-size: large;
+}

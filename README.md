@@ -19,11 +19,16 @@
 
 
 
-<!-- .slide: data-background="custom/images/xkcd-online-communities-map.png" data-background-size="680px" -->
+<!-- .slide: data-background="custom/images/xkcd-online-communities-map.png" data-background-size="680px" data-state="show-header" data-header="Source: xkcd.com/802/" -->
 
 
 
-sea of opinions
+<!-- .slide: data-background="custom/images/xkcd-fragment-1.jpg" data-state="show-header" data-header="Source: xkcd.com/802/" -->
+
+
+
+
+<!-- .slide: data-background="custom/images/xkcd-fragment-2.jpg" data-state="show-header" data-header="Source: xkcd.com/802/" -->
 
 
 
@@ -32,6 +37,7 @@ isle of drupal
 
 
 ## How is Drupal made?
+
 
 
 x-ray
