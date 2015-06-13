@@ -16,3 +16,7 @@ _Why and how to get involved in the Drupal community_
 
 
 ## [bit.ly/find-entrance](http://bit.ly/find-entrance)
+
+
+
+<!-- .slide: data-background="custom/images/xkcd-online-communities-map.png" -->
