@@ -10,8 +10,8 @@
 
 
 
-# Finding the Entrance
-### Why and how to get involved in the Drupal community
+## Finding the Entrance
+_Why and how to get involved in the Drupal community_
 
 
 
