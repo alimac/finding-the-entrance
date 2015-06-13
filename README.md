@@ -1,3 +1,17 @@
-# Finding the entrance: Why and how to get involved with the Drupal community
+<img src="custom/images/drupal-camp-st-louis-logo.png" alt="DrupalCamp St. Louis logo">
 
-Keynote for DrupalCamp St. Louis 2015.
+
+
+<!-- .slide: data-background="custom/images/tour-de-donut.jpg" -->
+Note:
+- Staunton, IL
+- two
+
+
+
+# Finding the Entrance
+### Why and how to get involved in the Drupal community
+
+
+
+## bit.ly/find-entrance
