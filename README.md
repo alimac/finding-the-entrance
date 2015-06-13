@@ -6,7 +6,7 @@
 
 
 
-<!-- .slide: data-background="custom/images/tour-de-donut.jpg" -->
+<!-- .slide: data-background="custom/images/tour-de-donut.jpg" data-background-size="1068px" -->
 
 
 
@@ -19,7 +19,7 @@
 
 
 
-<!-- .slide: data-background="custom/images/xkcd-online-communities-map.png" data-background-size="768px" -->
+<!-- .slide: data-background="custom/images/xkcd-online-communities-map.png" data-background-size="680px" -->
 
 
 
