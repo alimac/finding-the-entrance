@@ -120,47 +120,58 @@ another look at drupal isle
 
 
 
-support
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Support <!-- .element: class="heading" -->
 
 
 
-usability testing
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Usability testing<!-- .element: class="heading" -->
 
 
 
-documentation
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Write documentation <!-- .element: class="heading" -->
 
 
 
-translation
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Translate <!-- .element: class="heading" -->
 
 
 
-front-end
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Front-end<!-- .element: class="heading" -->
 
 
 
-back-end
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Back-end<!-- .element: class="heading" -->
 
 
 
-marketing
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Marketing <!-- .element: class="heading" -->
 
 
 
-core initiatives
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Core initiatives <!-- .element: class="heading" -->
 
 
 
-attend events
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Attend events <!-- .element: class="heading" -->
 
 
 
-give talks
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Give talks <!-- .element: class="heading" -->
 
 
 
-help organize events
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Help organize events <!-- .element: class="heading" -->
 
 
 
@@ -169,35 +180,43 @@ help organize events
 
 
 
-write blog posts
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Write blog posts <!-- .element: class="heading" -->
 
 
 
-make podcasts
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Make podcasts <!-- .element: class="heading" -->
 
 
 
-build a module
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Build a module or theme <!-- .element: class="heading" -->
 
 
 
-donate
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Donate <!-- .element: class="heading" -->
 
 
 
-join DA
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Join Drupal Association <!-- .element: class="heading" -->
 
 
 
-sponsor an event
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Sponsor an event <!-- .element: class="heading" -->
 
 
 
-become a mentor
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Become a mentor <!-- .element: class="heading" -->
 
 
 
-encourage others
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Encourage others <!-- .element: class="heading" -->
 
 
 
