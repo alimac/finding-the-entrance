@@ -157,7 +157,12 @@ Fredric Mitchell
 
 
 
-Karen Da Cruz
+<!-- .slide: data-background="#0D7670" -->
+><!-- .element: class="invert" -->
+><i class="fa fa-quote-left"></i>
+>It has provided me with plenty of <span class="highlight">opportunities</span> for growth, exquisite challenges and hard learned lessons.
+><i class="fa fa-quote-right"></i>
+><span>Karen Da Cruz <a href="https://www.drupal.org/u/kandra"><i class="fa fa-drupal"></i> kandra</a><br><img src="custom/images/kandra-headshot.jpg" style="width: 50%;"></span> <!-- .element: class="quote-source" -->
 
 
 
