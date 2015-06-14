@@ -135,7 +135,10 @@ Fredric Mitchell
 
 
 
-Kevin Thull
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+><!-- .element: class="invert" -->
+><i class="fa fa-quote-left"></i> Community involvement has really grown my network and my confidence.<br> I wouldn't trade that for anything. <i class="fa fa-quote-right"></i>
+><span>Kevin Thull <a href="https://www.drupal.org/u/kthull"><i class="fa fa-drupal"></i> kthull</a><br><img src="custom/images/kthull-headshot.jpg" style="width: 50%;"></span> <!-- .element: class="quote-source" -->
 
 
 
