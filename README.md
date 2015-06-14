@@ -198,7 +198,7 @@ another look at drupal isle
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/amy-sticky-notes.jpg" data-background-size="" data-state="show-header" data-header="Photo credit: CC-BY-NC amy https://flic.kr/p/9AWcmg" -->
 ## Write blog posts
 <!-- .element: class="heading" -->
 
