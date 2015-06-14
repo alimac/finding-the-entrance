@@ -138,9 +138,9 @@ another look at drupal isle
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/clogsilk-cupcake.jpg" data-background-size="" data-state="show-header" data-header="Photo: CC-BY-NC-ND clogsilk https://flic.kr/p/9iw317" -->
 ## Write documentation
-<!-- .element: class="heading" -->
+<!-- .element: class="heading invert" -->
 
 
 
