@@ -92,7 +92,7 @@ micro/macro
 
 
 
-<!-- .slide: data-background="custom/images/tony-hisgett-st-louis-arch.jpg" data-background-size="" data-state="show-header" data-header="Photo credit: CC-BY Tony Hisgett https://flic.kr/p/p8bvq7" -->
+<!-- .slide: data-background="custom/images/tony-hisgett-st-louis-arch.jpg" data-background-size="" data-state="show-header" data-header="Photo: CC-BY Tony Hisgett https://flic.kr/p/p8bvq7" -->
 ## St. Louis
 <!-- .element: class="heading" -->
 
@@ -102,7 +102,7 @@ photo + quote
 
 
 
-<!-- .slide: data-background="custom/images/jpellgen-reginald-baylor-on-duty-not-driving-2010.jpg" data-background-size="" data-state="show-header" data-header="Reginald Baylor, <em>On Duty, Not Driving</em> 2010.<br> Photo credit: CC-BY-NC-ND jpellgen https://flic.kr/p/peLziE" -->
+<!-- .slide: data-background="custom/images/jpellgen-reginald-baylor-on-duty-not-driving-2010.jpg" data-background-size="" data-state="show-header" data-header="Reginald Baylor, <em>On Duty, Not Driving</em> 2010.<br> Photo: CC-BY-NC-ND jpellgen https://flic.kr/p/peLziE" -->
 ## Midwest
 <!-- .element: class="heading invert" -->
 
@@ -112,7 +112,7 @@ photo+quote
 
 
 
-<!-- .slide: data-background="custom/images/amazee-labs-drupalcon-bogota-tshirt.jpg" data-background-size="" data-state="show-header" data-header="Photo credit: CC-BY-NC-SA Amazee Labs https://flic.kr/p/qQRqaU" -->
+<!-- .slide: data-background="custom/images/amazee-labs-drupalcon-bogota-tshirt.jpg" data-background-size="" data-state="show-header" data-header="Photo: CC-BY-NC-SA Amazee Labs https://flic.kr/p/qQRqaU" -->
 ## Around the world
 <!-- .element: class="heading" -->
 
@@ -192,13 +192,13 @@ another look at drupal isle
 
 
 
-<!-- .slide: data-background="custom/images/mike-schinkel-drupal-atl-meetup.jpg" data-background-size="" data-state="show-header" data-header="Photo credit: CC-BY Mike Schinkel https://flic.kr/p/55cYm9" -->
+<!-- .slide: data-background="custom/images/mike-schinkel-drupal-atl-meetup.jpg" data-background-size="" data-state="show-header" data-header="Photo: CC-BY Mike Schinkel https://flic.kr/p/55cYm9" -->
 ## Start a meetup
 <!-- .element: class="heading" -->
 
 
 
-<!-- .slide: data-background="custom/images/amy-sticky-notes.jpg" data-background-size="" data-state="show-header" data-header="Photo credit: CC-BY-NC amy https://flic.kr/p/9AWcmg" -->
+<!-- .slide: data-background="custom/images/amy-sticky-notes.jpg" data-background-size="" data-state="show-header" data-header="Photo: CC-BY-NC amy https://flic.kr/p/9AWcmg" -->
 ## Write blog posts
 <!-- .element: class="heading" -->
 
