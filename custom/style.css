@@ -62,6 +62,11 @@ h2.heading.invert {
   padding: .25em 1em;
 }
 
+.reveal blockquote.invert {
+  background-color: rgba(255, 255, 255, 0.95);
+  color: rgba(22,22,22,1);
+}
+
 .reveal blockquote .quote-source {
   font-family: sans-serif;
   font-style: normal;
