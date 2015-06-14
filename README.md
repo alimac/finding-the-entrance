@@ -102,7 +102,9 @@ photo + quote
 
 
 
-midwest
+<!-- .slide: data-background="custom/images/jpellgen-reginald-baylor-on-duty-not-driving-2010.jpg" data-background-size="" data-state="show-header" data-header="Photo credit: CC-BY-NC-ND jpellgen https://flic.kr/p/peLziE" -->
+## Midwest
+<!-- .element: class="heading" -->
 
 
 
