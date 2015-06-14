@@ -78,6 +78,10 @@ h2.heading.invert {
   letter-spacing: 0;
 }
 
+.reveal blockquote .quote-source a {
+  font-weight: 700;
+}
+
 .highlight {
   background-color: #FBDA5C;
   color: #212121;
