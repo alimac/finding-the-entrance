@@ -123,102 +123,122 @@ another look at drupal isle
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Support <!-- .element: class="heading" -->
+## Support
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Usability testing<!-- .element: class="heading" -->
+## Usability testing
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Write documentation <!-- .element: class="heading" -->
+## Write documentation
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Translate <!-- .element: class="heading" -->
+## Translate
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Front-end<!-- .element: class="heading" -->
+## Front-end
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Back-end<!-- .element: class="heading" -->
+## Back-end
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Marketing <!-- .element: class="heading" -->
+## Marketing
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Core initiatives <!-- .element: class="heading" -->
+## Core initiatives
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Attend events <!-- .element: class="heading" -->
+## Attend events
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Give talks <!-- .element: class="heading" -->
+## Give talks
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Help organize events <!-- .element: class="heading" -->
+## Help organize events
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/mike-schinkel-drupal-atl-meetup.jpg" data-background-size="" data-state="show-header" data-header="Photo credit: CC-BY Mike Schinkel https://flic.kr/p/55cYm9" -->
-## Start a meetup <!-- .element: class="heading" -->
+## Start a meetup
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Write blog posts <!-- .element: class="heading" -->
+## Write blog posts
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Make podcasts <!-- .element: class="heading" -->
+## Make podcasts
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Build a module or theme <!-- .element: class="heading" -->
+## Build a module or theme
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Donate <!-- .element: class="heading" -->
+## Donate
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Join Drupal Association <!-- .element: class="heading" -->
+## Join Drupal Association
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Sponsor an event <!-- .element: class="heading" -->
+## Sponsor an event
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Become a mentor <!-- .element: class="heading" -->
+## Become a mentor
+<!-- .element: class="heading" -->
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Encourage others <!-- .element: class="heading" -->
+## Encourage others
+<!-- .element: class="heading" -->
 
 
 
