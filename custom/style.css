@@ -76,3 +76,8 @@ h2.heading.invert {
   margin: .75em 0 0 0;
   display: block;
 }
+
+.highlight {
+  background-color: #FBDA5C;
+  color: #212121;
+}
