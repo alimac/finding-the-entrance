@@ -104,12 +104,6 @@ micro/macro
 
 
 
-<!-- .slide: data-background="custom/images/tony-hisgett-st-louis-arch.jpg" data-background-size="" data-state="show-header" data-header="Photo: CC-BY Tony Hisgett https://flic.kr/p/p8bvq7" -->
-## St. Louis
-<!-- .element: class="heading" -->
-
-
-
 Eric Brown
 
 
@@ -119,12 +113,6 @@ Jeff Geerling
 
 
 Fredric Mitchell
-
-
-
-<!-- .slide: data-background="custom/images/jpellgen-reginald-baylor-on-duty-not-driving-2010.jpg" data-background-size="" data-state="show-header" data-header="Reginald Baylor, <em>On Duty, Not Driving</em> 2010.<br> Photo: CC-BY-NC-ND jpellgen https://flic.kr/p/peLziE" -->
-## Midwest
-<!-- .element: class="heading invert" -->
 
 
 
@@ -141,12 +129,6 @@ Fredric Mitchell
 ><i class="fa fa-quote-left"></i> Community involvement has really grown my network and my <span class="highlight">confidence</span>.<br> I wouldn't trade that for anything. <i class="fa fa-quote-right"></i>
 ><span>Kevin Thull <a href="https://www.drupal.org/u/kthull"><i class="fa fa-drupal"></i> kthull</a><br><img src="custom/images/kthull-headshot.jpg" style=""></span>
 <!-- .element: class="quote-source" -->
-
-
-
-<!-- .slide: data-background="" data-background-size="" data-state="show-header" data-header="" -->
-## Beyond midwest
-<!-- .element: class="heading" -->
 
 
 
