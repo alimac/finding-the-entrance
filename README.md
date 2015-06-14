@@ -110,7 +110,15 @@ micro/macro
 
 
 
-photo + quote
+Eric Brown
+
+
+
+Jeff Geerling
+
+
+
+Fredric Mitchell
 
 
 
@@ -124,13 +132,21 @@ photo+quote
 
 
 
-<!-- .slide: data-background="custom/images/amazee-labs-drupalcon-bogota-tshirt.jpg" data-background-size="" data-state="show-header" data-header="Photo: CC-BY-NC-SA Amazee Labs https://flic.kr/p/qQRqaU" -->
+Kevin Thull
+
+
+
+<!-- .slide: data-background="" data-background-size="" data-state="show-header" data-header="" -->
 ## Around the world
 <!-- .element: class="heading" -->
 
 
 
-photo+quote
+Kalpana Goel
+
+
+
+Karen Da Cruz
 
 
 
