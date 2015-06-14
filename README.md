@@ -19,6 +19,18 @@
 
 
 
+## Alina Mackenzie
+<img src="custom/images/alimac-avatar.png">
+
+<a href="https://www.drupal.org/u/alimac"><i class="fa fa-drupal"></i> alimac</a>
+
+<a href="https://twitter.com/czaroxiejka"><i class="fa fa-twitter"></i> czaroxiejka</a>
+
+char • o • jay • ka
+<!-- .element style="font-size: x-large;word-spacing: 8px;" -->
+
+
+
 <!-- .slide: data-background="custom/images/xkcd-online-communities-map.png" data-background-size="680px" data-state="show-header" data-header="Source: xkcd.com/802/" -->
 
 
