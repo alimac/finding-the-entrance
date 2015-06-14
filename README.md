@@ -93,7 +93,8 @@ micro/macro
 
 
 <!-- .slide: data-background="custom/images/tony-hisgett-st-louis-arch.jpg" data-background-size="" data-state="show-header" data-header="Photo credit: CC-BY Tony Hisgett https://flic.kr/p/p8bvq7" -->
-## St. Louis <!-- .element: class="heading" -->
+## St. Louis
+<!-- .element: class="heading" -->
 
 
 
