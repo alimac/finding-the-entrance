@@ -148,7 +148,12 @@ Fredric Mitchell
 
 
 
-Kalpana Goel
+<!-- .slide: data-background="#42213D" -->
+><!-- .element: class="invert" -->
+><i class="fa fa-quote-left"></i>
+>Has not only helped me <span class="highlight">become a better developer</span> but I have recognized hidden skills inside me which I wasn't aware of.
+><i class="fa fa-quote-right"></i>
+><span>Kalpana Goel <a href="https://www.drupal.org/u/kgoel"><i class="fa fa-drupal"></i> kgoel</a><br><img src="custom/images/kgoel-headshot.jpg" style="width: 50%;"></span> <!-- .element: class="quote-source" -->
 
 
 
