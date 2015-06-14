@@ -128,7 +128,10 @@ Fredric Mitchell
 
 
 
-photo+quote
+<!-- .slide: data-background="custom/images/greg-dunlap-cathy-theys.jpg" data-background-size="" data-state="show-header" data-header="Photo: CC-BY Greg Dunlap https://flic.kr/p/eLDNyK" -->
+><i class="fa fa-quote-left"></i>
+>Given me interesting problems to solve, access to interesting smart people, taught me a lot about programming and people. <i class="fa fa-quote-right"></i>
+> <span>Cathy Theys <a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> YesCT</a></span> <!-- .element: class="quote-source" -->
 
 
 
