@@ -112,7 +112,9 @@ photo+quote
 
 
 
-around the world
+<!-- .slide: data-background="custom/images/amazee-labs-drupalcon-bogota-tshirt.jpg" data-background-size="" data-state="show-header" data-header="Photo credit: CC-BY-NC-SA Amazee Labs https://flic.kr/p/qQRqaU" -->
+## Around the world
+<!-- .element: class="heading" -->
 
 
 
