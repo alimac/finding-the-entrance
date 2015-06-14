@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Gentium+Book+Basic:400italic,400);
+
 .reveal section img {
   border: 0;
   background: none;
@@ -49,4 +51,22 @@ h2.heading {
 h2.heading.invert {
   background-color: rgba(0, 0, 0, 0.75);
   color: #fff;
+}
+
+.reveal blockquote {
+  font-family: 'Gentium Book Basic', serif;
+  background-color: rgba(0, 0, 0, 0.65);
+  text-align: left;
+  border: none;
+  padding: .25em 1em;
+}
+
+.reveal blockquote .quote-source {
+  font-family: sans-serif;
+  font-style: normal;
+  font-size: x-large;
+  text-align: right;
+  padding: .25em;
+  margin: .75em 0 0 0;
+  display: block;
 }
