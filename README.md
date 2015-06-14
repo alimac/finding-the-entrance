@@ -164,7 +164,8 @@ help organize events
 
 
 
-start a meetup
+<!-- .slide: data-background="custom/images/mike-schinkel-drupal-atl-meetup.jpg" data-background-size="" data-state="show-header" data-header="Photo credit: CC-BY Mike Schinkel https://flic.kr/p/55cYm9" -->
+## Start a meetup <!-- .element: class="heading" -->
 
 
 
