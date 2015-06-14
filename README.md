@@ -234,7 +234,7 @@ another look at drupal isle
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/jared-smith-drupalcon-la-mentors.jpg" data-background-size="2048px" data-state="show-header" data-header="Photo credit: Jared Smith https://flic.kr/p/sKPEe5" -->
 ## Become a mentor
 <!-- .element: class="heading" -->
 
