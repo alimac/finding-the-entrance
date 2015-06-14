@@ -56,6 +56,7 @@ h2.heading.invert {
 .reveal blockquote {
   font-family: 'Gentium Book Basic', serif;
   background-color: rgba(0, 0, 0, 0.65);
+  letter-spacing: 1px;
   text-align: left;
   border: none;
   padding: .25em 1em;
