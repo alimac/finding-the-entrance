@@ -85,6 +85,8 @@
         // event.previousSlide, event.currentSlide, event.indexh, event.indexv
         if(event.currentSlide.dataset.header) {
           attribution.innerHTML = event.currentSlide.dataset.header;
+        } else {
+          attribution.innerHTML = '';
         }
       });
 
