@@ -126,7 +126,9 @@ Fredric Mitchell
 
 <!-- .slide: data-background="#7F141A" -->
 ><!-- .element: class="invert" -->
-><i class="fa fa-quote-left"></i> Community involvement has really grown my network and my <span class="highlight">confidence</span>.<br> I wouldn't trade that for anything. <i class="fa fa-quote-right"></i>
+><i class="fa fa-quote-left"></i>
+>I used to be that shy guy in the corner, but community involvement has really <span class="highlight">grown my network</span> and my confidence.
+>I wouldn't trade that for anything. <i class="fa fa-quote-right"></i>
 ><span>Kevin Thull <a href="https://www.drupal.org/u/kthull"><i class="fa fa-drupal"></i> kthull</a><br><img src="custom/images/kthull-headshot.jpg" style=""></span>
 <!-- .element: class="quote-source" -->
 
@@ -135,7 +137,7 @@ Fredric Mitchell
 <!-- .slide: data-background="#42213D" -->
 ><!-- .element: class="invert" -->
 ><i class="fa fa-quote-left"></i>
->Has not only helped me <span class="highlight">become a better developer</span> but I have recognized hidden skills inside me which I wasn't aware of.
+>It has not only helped me <span class="highlight">become a better developer</span> but I have recognized hidden skills inside me which I wasn't aware of before.
 ><i class="fa fa-quote-right"></i>
 ><span>Kalpana Goel <a href="https://www.drupal.org/u/kgoel"><i class="fa fa-drupal"></i> kgoel</a><br><img src="custom/images/kgoel-headshot.jpg" style=""></span>
 <!-- .element: class="quote-source" -->
@@ -146,6 +148,7 @@ Fredric Mitchell
 ><!-- .element: class="invert" -->
 ><i class="fa fa-quote-left"></i>
 >It has provided me with plenty of <span class="highlight">opportunities</span> for growth, exquisite challenges and hard learned lessons.
+>And I am not talking about tech alone!
 ><i class="fa fa-quote-right"></i>
 ><span>Karen Da Cruz <a href="https://www.drupal.org/u/kandra"><i class="fa fa-drupal"></i> kandra</a><br><img src="custom/images/kandra-headshot.jpg" style=""></span>
 <!-- .element: class="quote-source" -->
