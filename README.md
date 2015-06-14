@@ -131,14 +131,16 @@ Fredric Mitchell
 <!-- .slide: data-background="custom/images/greg-dunlap-cathy-theys.jpg" data-background-size="" data-state="show-header" data-header="Photo: CC-BY Greg Dunlap https://flic.kr/p/eLDNyK" -->
 ><i class="fa fa-quote-left"></i>
 >Given me interesting problems to solve, access to interesting <span class="highlight">smart people</span>, taught me a lot about programming and people. <i class="fa fa-quote-right"></i>
-> <span>Cathy Theys <a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> YesCT</a></span> <!-- .element: class="quote-source" -->
+> <span>Cathy Theys <a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> YesCT</a></span>
+<!-- .element: class="quote-source" -->
 
 
 
 <!-- .slide: data-background="#7F141A" -->
 ><!-- .element: class="invert" -->
 ><i class="fa fa-quote-left"></i> Community involvement has really grown my network and my <span class="highlight">confidence</span>.<br> I wouldn't trade that for anything. <i class="fa fa-quote-right"></i>
-><span>Kevin Thull <a href="https://www.drupal.org/u/kthull"><i class="fa fa-drupal"></i> kthull</a><br><img src="custom/images/kthull-headshot.jpg" style="width: 50%;"></span> <!-- .element: class="quote-source" -->
+><span>Kevin Thull <a href="https://www.drupal.org/u/kthull"><i class="fa fa-drupal"></i> kthull</a><br><img src="custom/images/kthull-headshot.jpg" style="width: 50%;"></span>
+<!-- .element: class="quote-source" -->
 
 
 
@@ -153,7 +155,8 @@ Fredric Mitchell
 ><i class="fa fa-quote-left"></i>
 >Has not only helped me <span class="highlight">become a better developer</span> but I have recognized hidden skills inside me which I wasn't aware of.
 ><i class="fa fa-quote-right"></i>
-><span>Kalpana Goel <a href="https://www.drupal.org/u/kgoel"><i class="fa fa-drupal"></i> kgoel</a><br><img src="custom/images/kgoel-headshot.jpg" style="width: 50%;"></span> <!-- .element: class="quote-source" -->
+><span>Kalpana Goel <a href="https://www.drupal.org/u/kgoel"><i class="fa fa-drupal"></i> kgoel</a><br><img src="custom/images/kgoel-headshot.jpg" style="width: 50%;"></span>
+<!-- .element: class="quote-source" -->
 
 
 
@@ -162,7 +165,8 @@ Fredric Mitchell
 ><i class="fa fa-quote-left"></i>
 >It has provided me with plenty of <span class="highlight">opportunities</span> for growth, exquisite challenges and hard learned lessons.
 ><i class="fa fa-quote-right"></i>
-><span>Karen Da Cruz <a href="https://www.drupal.org/u/kandra"><i class="fa fa-drupal"></i> kandra</a><br><img src="custom/images/kandra-headshot.jpg" style="width: 50%;"></span> <!-- .element: class="quote-source" -->
+><span>Karen Da Cruz <a href="https://www.drupal.org/u/kandra"><i class="fa fa-drupal"></i> kandra</a><br><img src="custom/images/kandra-headshot.jpg" style="width: 50%;"></span>
+<!-- .element: class="quote-source" -->
 
 
 
