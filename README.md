@@ -143,7 +143,7 @@ Fredric Mitchell
 
 
 <!-- .slide: data-background="" data-background-size="" data-state="show-header" data-header="" -->
-## Around the world
+## Beyond midwest
 <!-- .element: class="heading" -->
 
 
