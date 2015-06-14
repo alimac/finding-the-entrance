@@ -40,7 +40,13 @@
 }
 
 h2.heading {
-  background-color: rgba(0, 0, 0, 0.75);
+  background-color: rgba(255, 255, 255, 0.75);
+  color: rgba(22,22,22,1);
   padding: 0.5em 2em;
   display: inline-block;
+}
+
+h2.heading.invert {
+  background-color: rgba(0, 0, 0, 0.75);
+  color: #fff;
 }
