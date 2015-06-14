@@ -26,6 +26,8 @@
   z-index:500;
   padding: 0;
   display: none;
+  text-align: right;
+  line-height: 1.6em;
 }
 
 .show-header #attribution {
@@ -34,7 +36,7 @@
   background: #000;
   opacity: 0.65;
   padding: 0.25em 0.5em;
-  font-size: large;
+  font-size: medium;
 }
 
 h2.heading {
