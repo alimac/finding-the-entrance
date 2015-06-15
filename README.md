@@ -112,7 +112,13 @@ Jeff Geerling
 
 
 
-Fredric Mitchell
+<!-- .slide: data-background="#243F63" -->
+> <!-- .element: class="invert" -->
+> <i class="fa fa-quote-left"></i>
+> I've met a lot of great people, from Minneapolis to New York to Costa Rica and San Francisco. Having a network to lean on and get support from is always helpful.
+> <i class="fa fa-quote-right"></i>
+> <span>Fredric Mitchell <a href="https://www.drupal.org/u/fmitchell"><i class="fa fa-drupal"></i> fmitchell</a><br><img src="custom/images/fmitchell-headshot.jpg"></span>
+<!-- .element: class="quote-source" -->
 
 
 
