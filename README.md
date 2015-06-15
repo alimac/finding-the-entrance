@@ -108,7 +108,12 @@ Eric Brown
 
 
 
-Jeff Geerling
+<!-- .slide: data-background="custom/images/geerlingguy-photo.jpg" data-background-size="" data-state="show-header" data-header="" -->
+> <i class="fa fa-quote-left"></i>
+> It helps to have a huge network of local and regional friends, whether it be on Twitter, in IRC, or in person.
+> <i class="fa fa-quote-right"></i>
+> <span>Jeff Geerling <a href="https://www.drupal.org/u/geerlingguy"><i class="fa fa-drupal"></i> geerlingguy</a></span>
+<!-- .element: class="quote-source" -->
 
 
 
