@@ -1,4 +1,25 @@
-<img src="custom/images/drupal-camp-st-louis-logo.png" alt="DrupalCamp St. Louis logo">
+<!-- .slide: data-background="custom/images/opening-slide-1.png" -->
+
+
+
+
+<!-- .slide: data-background="custom/images/opening-slide-2.png" -->
+
+
+
+
+<!-- .slide: data-background="custom/images/opening-slide-3.png" -->
+
+
+
+
+<!-- .slide: data-background="custom/images/opening-slide-4.jpg" -->
+
+
+
+
+<!-- .slide: data-background="custom/images/opening-slide-5.png" -->
+
 
 
 
