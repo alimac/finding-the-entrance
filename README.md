@@ -31,7 +31,7 @@
 
 
 
-## Finding the Entrance
+## <i class="fa fa-sign-in"></i> Finding the Entrance
 ####_Why and how to get involved in the Drupal community_
 
 
