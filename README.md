@@ -148,7 +148,7 @@ Eric Brown
 
 
 
-<!-- .slide: data-background="custom/images/greg-dunlap-cathy-theys.jpg" data-background-size="" data-state="show-header" data-header="Photo: CC-BY Greg Dunlap https://flic.kr/p/eLDNyK" -->
+<!-- .slide: data-background="custom/images/greg-dunlap-cathy-theys.jpg" data-background-size="" data-state="show-header" data-header="Photo: CC-BY Greg Dunlap https://flic.kr/p/eLDNyK" style="margin-top: 200px; margin-left: 150px;" -->
 ><i class="fa fa-quote-left"></i>
 >Being involved has given me interesting problems to solve, access to interesting <span class="highlight">smart people</span>, and has taught me a lot about programming and people. <i class="fa fa-quote-right"></i>
 > <span>Cathy Theys <a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> YesCT</a></span>
