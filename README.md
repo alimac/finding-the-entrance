@@ -185,7 +185,7 @@ Eric Brown
 
 
 
-another look at drupal isle
+<!-- .slide: data-background="custom/images/isle-of-drupal-sea-routes.jpg" -->
 
 
 
