@@ -60,7 +60,6 @@ char • o • jay • ka
 
 
 
-
 <!-- .slide: data-background="custom/images/xkcd-fragment-2.jpg" data-state="show-header" data-header="Source: xkcd.com/802/" -->
 
 
