@@ -64,7 +64,7 @@ char • o • jay • ka
 
 
 
-isle of drupal
+<!-- .slide: data-background="custom/images/isle-of-drupal.jpg" -->
 
 
 
