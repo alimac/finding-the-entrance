@@ -166,12 +166,11 @@ Eric Brown
 
 
 
-<!-- .slide: data-background="#42213D" -->
-><!-- .element: class="invert" -->
+<!-- .slide: data-background="custom/images/kgoel-photo.jpg" data-state="show-header" data-header="Photo: CC-BY Boris Baldinger https://flic.kr/p/paDdif" style="margin-top: 200px;"-->
 ><i class="fa fa-quote-left"></i>
 >It has not only helped me <span class="highlight">become a better developer</span> but I have recognized hidden skills inside me which I wasn't aware of before.
 ><i class="fa fa-quote-right"></i>
-><span>Kalpana Goel <a href="https://www.drupal.org/u/kgoel"><i class="fa fa-drupal"></i> kgoel</a><br><img src="custom/images/kgoel-headshot.jpg" style=""></span>
+><span>Kalpana Goel <a href="https://www.drupal.org/u/kgoel"><i class="fa fa-drupal"></i> kgoel</a></span>
 <!-- .element: class="quote-source" -->
 
 
