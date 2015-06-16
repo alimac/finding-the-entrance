@@ -129,7 +129,7 @@ Eric Brown
 
 
 
-<!-- .slide: data-background="custom/images/geerlingguy-photo.jpg" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/geerlingguy-photo.jpg" data-background-size="" data-state="show-header" data-header="" style="margin-top: 250px; margin-left: 50px;" -->
 > <i class="fa fa-quote-left"></i>
 > It helps to have a huge network of local and regional friends, whether it be on Twitter, in IRC, or in person.
 > <i class="fa fa-quote-right"></i>
