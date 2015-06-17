@@ -174,13 +174,12 @@ Eric Brown
 
 
 
-<!-- .slide: data-background="#0D7670" -->
-><!-- .element: class="invert" -->
+<!-- .slide: data-background="custom/images/kandra-photo.jpg" data-state="" data-header="" style="margin-top: -275px; margin-left: 325px;"-->
 ><i class="fa fa-quote-left"></i>
 >It has provided me with plenty of <span class="highlight">opportunities</span> for growth, exquisite challenges and hard learned lessons.
 >And I am not talking about tech alone!
 ><i class="fa fa-quote-right"></i>
-><span>Karen Da Cruz <a href="https://www.drupal.org/u/kandra"><i class="fa fa-drupal"></i> kandra</a><br><img src="custom/images/kandra-headshot.jpg" style=""></span>
+><span>Karen Da Cruz <a href="https://www.drupal.org/u/kandra"><i class="fa fa-drupal"></i> kandra</a></span>
 <!-- .element: class="quote-source" -->
 
 
