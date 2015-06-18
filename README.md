@@ -347,7 +347,7 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/mike-schinkel-drupal-atl-meetup.jpg" data-background-size="" data-state="show-header" data-header="Photo: CC-BY Mike Schinkel https://flic.kr/p/55cYm9" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Start a meetup
 <!-- .element: class="heading" -->
 
