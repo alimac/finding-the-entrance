@@ -107,6 +107,10 @@ Note:
 
 
 ## How is Drupal made?
+<img src="custom/images/drupal-releases.png" class="fragment">
+
+Note:
+- Ever wonder what goes into these files?
 
 
 
