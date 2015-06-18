@@ -293,7 +293,7 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/clogsilk-cupcake.jpg" data-background-size="" data-state="show-header" data-header="Photo: CC-BY-NC-ND clogsilk https://flic.kr/p/9iw317" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Write documentation
 <!-- .element: class="heading invert" -->
 
