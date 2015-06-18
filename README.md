@@ -114,7 +114,11 @@ Note:
 
 
 
-screenshots
+## Issue summary
+Note:
+- Someone adds words and context to the issue summary
+- Steps to reproduce
+- Screenshots or screencasts
 
 
 
