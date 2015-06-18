@@ -217,6 +217,10 @@ Note:
 >Being involved has given me interesting problems to solve, access to interesting <span class="highlight">smart people</span>, and has taught me a lot about programming and people. <i class="fa fa-quote-right"></i>
 > <span>Cathy Theys <a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> YesCT</a></span>
 <!-- .element: class="quote-source" -->
+Note:
+- Works on Drupal core and mentors new contributors
+- Improving contribution process for new and ongoing contributors
+- Stayed extra days at DrupalCon Denver to join the sprints
 
 
 
@@ -229,6 +233,11 @@ Note:
 >I wouldn't trade that for anything. <i class="fa fa-quote-right"></i>
 ><span>Kevin Thull <a href="https://www.drupal.org/u/kthull"><i class="fa fa-drupal"></i> kthull</a><br><img src="custom/images/kthull-headshot.jpg" style=""></span>
 <!-- .element: class="quote-source" -->
+Note:
+- meetup and camp organizer, print support for Drupal core mentoring
+- many firsts: issue queue, meetups, camps
+- affordable session recording kit
+- shares non-Drupal expertise to fill gaps needed at events
 
 
 
@@ -240,6 +249,10 @@ Note:
 ><i class="fa fa-quote-right"></i>
 ><span>Kalpana Goel <a href="https://www.drupal.org/u/kgoel"><i class="fa fa-drupal"></i> kgoel</a></span>
 <!-- .element: class="quote-source" -->
+Note:
+- Contributes patches, reviews, mentors new contributors
+- Tried different areas in span of about 3 years to find the right place: Drupal 8, Symfony
+- Increased social circle and confidence
 
 
 
