@@ -94,6 +94,16 @@ Note:
 
 
 
+<!-- .slide: data-background="custom/images/amanda-sewing-patches.jpg" data-state="show-header" data-header="Photo: CC-BY-NC-ND amanda https://flic.kr/p/7NSvF, cropped" -->
+<img src="custom/images/patch.png">
+<!-- .element: class="stretch" -->
+Note:
+- A patch is a text file
+- Lines added are marked with +, lines removed are marked with -
+- Patch is applied to the project codebase, transforming it
+
+
+
 bug report, feature, enhancement
 
 
