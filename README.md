@@ -163,7 +163,14 @@ Note:
 
 
 
-Eric Brown
+<!-- .slide: data-background="custom/images/eric-the-last.jpg" data-state="show-header" data-header="" style="margin-top: 150px; margin-left: 300px;" -->
+## Eric Brown <a href="https://www.drupal.org/user/1037606"><i class="fa fa-drupal"></i> ericthelast</a>
+<!-- .element: class="heading invert" -->
+> <i class="fa fa-quote-left"></i>
+> I was always struck by his willingness to listen and share his knowledge. I learned a lot from him, not only technically, but by his modeling of humility and genuine care for others.
+> <i class="fa fa-quote-right"></i>
+> <span>Source: [ericthelast.org](http://ericthelast.org)</span>
+<!-- .element: class="quote-source" -->
 
 
 
