@@ -353,7 +353,7 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/amy-sticky-notes.jpg" data-background-size="" data-state="show-header" data-header="Photo: CC-BY-NC amy https://flic.kr/p/9AWcmg" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Write blog posts
 <!-- .element: class="heading" -->
 
