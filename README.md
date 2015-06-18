@@ -80,7 +80,7 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/xkcd-fragment-1.jpg" data-state="show-header" data-header="Source: xkcd.com/802/" -->
+<!-- .slide: data-background="custom/images/xkcd-fragment-1.jpg" data-background-size="1280px" data-state="show-header" data-header="Source: xkcd.com/802/" -->
 
 Note:
 - Drupal community uses IRC for online chat
@@ -89,14 +89,14 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/xkcd-fragment-2.jpg" data-state="show-header" data-header="Source: xkcd.com/802/" -->
+<!-- .slide: data-background="custom/images/xkcd-fragment-2.jpg" data-background-size="1280px" data-state="show-header" data-header="Source: xkcd.com/802/" -->
 
 Note:
 - Sea of Opinions?
 
 
 
-<!-- .slide: data-background="custom/images/isle-of-drupal.jpg" -->
+<!-- .slide: data-background="custom/images/isle-of-drupal.jpg" data-background-size="1280px" -->
 ## Isle of Drupal
 <!-- .element: class="hidden" -->
 
@@ -310,7 +310,7 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/kandra-photo.jpg" data-state="" data-header="" style="margin-top: -275px; margin-left: 325px;"-->
+<!-- .slide: data-background="custom/images/kandra-photo.jpg" data-state="" data-header="" style="margin-top: 250px; margin-left: 200px;"-->
 ## Karen Da Cruz
 <!-- .element: class="hidden" -->
 ><i class="fa fa-quote-left"></i>
@@ -329,7 +329,7 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/isle-of-drupal-sea-routes.jpg" -->
+<!-- .slide: data-background="custom/images/isle-of-drupal-sea-routes.jpg" data-background-size="1280px" -->
 ## Sea routes
 <!-- .element: class="hidden" -->
 
