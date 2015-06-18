@@ -122,7 +122,11 @@ Note:
 
 
 
-first patch
+## A patch appears!
+Note:
+- Someone writes the first set of changes to code
+- Maybe automated tests fail
+- Maybe patch is incomplete
 
 
 
