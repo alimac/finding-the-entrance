@@ -161,7 +161,7 @@ Note:
 <!-- .slide: data-background="custom/images/littlelixie-patchwork.jpg" data-state="show-header" data-header="Quilt by Keiko Ohno. Photo: CC-BY-NC Littlelixie https://flic.kr/p/pF4Ekn" -->
 ## Contributions
 <!-- .element: class="heading invert" -->
-Notes:
+Note:
 - Creating an issue, adding information, screenshots are valuable contributions
 - Reviewing: reading code, before and after screenshots, code style
 - Organizing the event
