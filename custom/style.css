@@ -82,6 +82,11 @@ h2.hidden {
   letter-spacing: 0;
 }
 
+.reveal blockquote h2 {
+  font-style: normal;
+  margin-top: .5em;
+}
+
 .reveal blockquote .quote-source a {
   font-weight: 700;
 }
