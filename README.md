@@ -137,7 +137,11 @@ Note:
 
 
 
-coding standards
+## Review
+Note:
+- Coding standards
+- Does the patch fix the problem?
+- Before and after screenshots
 
 
 
