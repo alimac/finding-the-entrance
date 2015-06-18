@@ -153,7 +153,7 @@ Note:
 
 
 
-rtbc!
+<!-- .slide: data-background-video="custom/holly-ross-2014th-contributor.mp4" data-state="show-header" data-header="Drupal Camp NYC 2014 Source: https://youtu.be/RNaPAzhxw58" -->
 
 
 
