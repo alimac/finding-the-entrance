@@ -179,6 +179,8 @@ Notes:
 
 
 <!-- .slide: data-background="custom/images/geerlingguy-photo.jpg" data-background-size="" data-state="show-header" data-header="" style="margin-top: 250px; margin-left: 50px;" -->
+## Jeff Geerling
+<!-- .element: class="hidden" -->
 > <i class="fa fa-quote-left"></i>
 > It helps to have a huge network of local and regional friends, whether it be on Twitter, in IRC, or in person.
 > <i class="fa fa-quote-right"></i>
@@ -188,6 +190,8 @@ Notes:
 
 
 <!-- .slide: data-background="#243F63" -->
+## Fredric Mitchell
+<!-- .element: class="hidden" -->
 > <!-- .element: class="invert" -->
 > <i class="fa fa-quote-left"></i>
 > I've met a lot of great people, from Minneapolis to New York to Costa Rica and San Francisco. Having a network to lean on and get support from is always helpful.
@@ -198,6 +202,8 @@ Notes:
 
 
 <!-- .slide: data-background="custom/images/greg-dunlap-cathy-theys.jpg" data-background-size="" data-state="show-header" data-header="Photo: CC-BY Greg Dunlap https://flic.kr/p/eLDNyK" style="margin-top: 200px; margin-left: 150px;" -->
+## Cathy Theys
+<!-- .element: class="hidden" -->
 ><i class="fa fa-quote-left"></i>
 >Being involved has given me interesting problems to solve, access to interesting <span class="highlight">smart people</span>, and has taught me a lot about programming and people. <i class="fa fa-quote-right"></i>
 > <span>Cathy Theys <a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> YesCT</a></span>
@@ -206,6 +212,8 @@ Notes:
 
 
 <!-- .slide: data-background="#7F141A" -->
+## Kevin Thull
+<!-- .element: class="hidden" -->
 ><!-- .element: class="invert" -->
 ><i class="fa fa-quote-left"></i>
 >I used to be that shy guy in the corner, but community involvement has really <span class="highlight">grown my network</span> and my confidence.
@@ -216,6 +224,8 @@ Notes:
 
 
 <!-- .slide: data-background="custom/images/kgoel-photo.jpg" data-state="show-header" data-header="Photo: CC-BY Boris Baldinger https://flic.kr/p/paDdif" style="margin-top: 200px;"-->
+## Kalpana Goel
+<!-- .element: class="hidden" -->
 ><i class="fa fa-quote-left"></i>
 >It has not only helped me <span class="highlight">become a better developer</span> but I have recognized hidden skills inside me which I wasn't aware of before.
 ><i class="fa fa-quote-right"></i>
@@ -225,6 +235,8 @@ Notes:
 
 
 <!-- .slide: data-background="custom/images/kandra-photo.jpg" data-state="" data-header="" style="margin-top: -275px; margin-left: 325px;"-->
+## Karen Da Cruz
+<!-- .element: class="hidden" -->
 ><i class="fa fa-quote-left"></i>
 >It has provided me with plenty of <span class="highlight">opportunities</span> for growth, exquisite challenges and hard learned lessons.
 >And I am not talking about tech alone!

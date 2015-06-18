@@ -53,6 +53,10 @@ h2.heading.invert {
   color: #fff;
 }
 
+h2.hidden {
+  display: none;
+}
+
 .reveal blockquote {
   font-family: 'Gentium Book Basic', serif;
   background-color: rgba(0, 0, 0, 0.65);
