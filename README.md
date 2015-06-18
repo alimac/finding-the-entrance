@@ -142,6 +142,7 @@ Note:
 - Coding standards
 - Does the patch fix the problem?
 - Before and after screenshots
+- Reviewing is crucial for getting changes committed and making Drupal better
 
 
 
@@ -160,7 +161,10 @@ Note:
 <!-- .slide: data-background="custom/images/littlelixie-patchwork.jpg" data-state="show-header" data-header="Quilt by Keiko Ohno. Photo: CC-BY-NC Littlelixie https://flic.kr/p/pF4Ekn" -->
 ## Contributions
 <!-- .element: class="heading invert" -->
-
+Notes:
+- Creating an issue, adding information, screenshots are valuable contributions
+- Reviewing: reading code, before and after screenshots, code style
+- Organizing the event
 
 
 <!-- .slide: data-background="custom/images/eric-the-last.jpg" data-state="show-header" data-header="" style="margin-top: 150px; margin-left: 300px;" -->
