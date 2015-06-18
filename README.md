@@ -265,10 +265,20 @@ Note:
 ><i class="fa fa-quote-right"></i>
 ><span>Karen Da Cruz <a href="https://www.drupal.org/u/kandra"><i class="fa fa-drupal"></i> kandra</a></span>
 <!-- .element: class="quote-source" -->
+Note:
+- Co-organizer of Drupal Lima meetup: shares knowledge through workshops and talks, effort to involve women
+- Introduced by a friend to open source: ability to build sustainable career path
+- Goal: increase women's participation in the tech community
+- Learned mor about people than tech: being a team player vs. lone wolf
+- Visibility converts into reputation, which gives opportunities to grow career-wise and as a person
 
 
 
 <!-- .slide: data-background="custom/images/isle-of-drupal-sea-routes.jpg" -->
+Note:
+- Movement: Drupal community is part of intersecting communities
+- Communities around technologies like PHP
+- Topics: accessibility, multilingual, user experience, automation
 
 
 
