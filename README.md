@@ -427,18 +427,9 @@ Note:
 
 
 
-my story
+## My story
 
 
 
-global sprint weekend
-austin
-midcamp
+## Tomorrow
 
-
-
-benefits
-
-
-
-tomorrow
