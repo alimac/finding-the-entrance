@@ -85,7 +85,12 @@ Note:
 
 
 
-patches
+<!-- .slide: data-background="custom/images/amanda-sewing-patches.jpg" data-state="show-header" data-header="Photo: CC-BY-NC-ND amanda https://flic.kr/p/7NSvF, cropped" -->
+## Patch
+<!-- .element: class="heading invert" -->
+Note:
+- Changes: adding code, removing code, replacing code
+- Sets of changes are packaged into "patches"
 
 
 
