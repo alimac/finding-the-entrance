@@ -290,6 +290,7 @@ Note:
 - Support online: forums, chat. In person: at meetups, user groups
 
 
+
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Usability testing
 <!-- .element: class="heading" -->
@@ -300,8 +301,8 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Write documentation
-<!-- .element: class="heading invert" -->
+## Documentation
+<!-- .element: class="heading" -->
 Note:
 - Add and remove words, like code
 - Make things clear and easy to understand
@@ -328,6 +329,9 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Back-end
 <!-- .element: class="heading" -->
+Note:
+- Review code
+- Write code
 
 
 
@@ -335,6 +339,7 @@ Note:
 ## Marketing
 <!-- .element: class="heading" -->
 Note:
+- Meet other open source contributors?
 - Introduce and promote Drupal
 
 
@@ -342,6 +347,11 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Core initiatives
 <!-- .element: class="heading" -->
+Note:
+- Interest areas
+- Initiatives: configuration management, design, mobile, multi-lingual, web services
+- Topics: accessibility, documentation, performance, testing, usability
+- [MAINTAINERS.txt](http://cgit.drupalcode.org/drupal/tree/core/MAINTAINERS.txt)
 
 
 
@@ -350,6 +360,8 @@ Note:
 <!-- .element: class="heading" -->
 Note:
 - You are here and you are awesome
+- Even if you can't attend in person, watch recorded talks
+- Give feedback to presenters: "I really liked... I wish that..."
 
 
 
@@ -374,6 +386,8 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Start a meetup
 <!-- .element: class="heading" -->
+Note:
+- Hyperlocal: meetup at your workplace, school
 
 
 
@@ -386,44 +400,63 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Make podcasts
+## Make screenscasts, podcasts
 <!-- .element: class="heading" -->
+Note:
+- Somewhere between giving a talk and writing a blog post
 
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Build a module or theme
 <!-- .element: class="heading" -->
+Note:
+- Release your custom code to the community
 
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Donate
 <!-- .element: class="heading" -->
+Note:
+- Drupal 8 Accelerate fund supports work on Drupal 8
 
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Join Drupal Association
 <!-- .element: class="heading" -->
+Note:
+- Drupal association provides community grants and organizes DrupalCons
+- Europe, North America, South America, Asia
 
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Sponsor an event
 <!-- .element: class="heading" -->
+Note:
+- Meetups, camps, sprints need sponsors
+- Offer event space, buy snacks, coffee and tea, lunch
+- Meet current and future developers, contributors, project managers, generalists, designers and learners
 
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Become a mentor
 <!-- .element: class="heading" -->
+Note:
+- Online mentoring on IRC chat
+- In person mentoring at events
+- One on one mentoring
 
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Encourage others
 <!-- .element: class="heading" -->
+Note:
+- One of the most powerful things you can do is give encouragement to another person, and invite them to do something together
 
 
 
@@ -431,5 +464,10 @@ Note:
 
 
 
-## Tomorrow
 
+> <i class="fa fa-quote-left"></i>
+> When you develop an interest, it usually comes from an environment that de-dramatizes things.
+> Because then you’re able to <span class="highlight">find your own entrance</span> into it.
+> <i class="fa fa-quote-right"></i>
+> <span><a href="http://pitchfork.com/thepitch/746-what-happens-when-there-are-no-boys-in-the-room-a-report-from-robyns-tekla-conference/">Robyn</a></span>
+<!-- .element: class="quote-source" -->
