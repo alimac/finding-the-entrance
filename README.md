@@ -65,6 +65,9 @@ char • o • jay • ka
 
 
 <!-- .slide: data-background="custom/images/isle-of-drupal.jpg" -->
+## Isle of Drupal
+<!-- .element: class="hidden" -->
+
 Note:
 - Landmarks, but no detail
 - Can we find out how community works from how the project is built?
@@ -78,6 +81,7 @@ Note:
 <!-- .slide: data-background="custom/images/christoph-spiegl-code.jpg" data-state="show-header" data-header="Photo: CC-BY-NC Christoph Spiegl http://flic.kr/p/7DmgDW, cropped" -->
 ## Code
 <!-- .element: class="heading" -->
+
 Note:
 - Download Drupal, unpack and open up in a text editor
 - Different kinds of code: PHP, HTML, CSS, Javascript
@@ -88,6 +92,7 @@ Note:
 <!-- .slide: data-background="custom/images/amanda-sewing-patches.jpg" data-state="show-header" data-header="Photo: CC-BY-NC-ND amanda https://flic.kr/p/7NSvF, cropped" -->
 ## Patch
 <!-- .element: class="heading invert" -->
+
 Note:
 - Changes: adding code, removing code, replacing code
 - Sets of changes are packaged into "patches"
@@ -97,6 +102,7 @@ Note:
 <!-- .slide: data-background="custom/images/amanda-sewing-patches.jpg" data-state="show-header" data-header="Photo: CC-BY-NC-ND amanda https://flic.kr/p/7NSvF, cropped" -->
 <img src="custom/images/patch.png">
 <!-- .element: class="stretch" -->
+
 Note:
 - A patch is a text file
 - Lines added are marked with +, lines removed are marked with -
@@ -107,6 +113,7 @@ Note:
 <!-- .slide: data-background="custom/images/wlodi-big-red-button.jpg" data-state="show-header" data-header="Photo: CC-BY-SA włodi https://flic.kr/p/5GCeGg, cropped" -->
 ## Starting point
 <!-- .element: class="heading invert" -->
+
 Note:
 - A bug report, a feature request, an enhancement
 - Someone creates an issue in the issue queue on drupal.org
@@ -115,6 +122,7 @@ Note:
 
 
 ## Issue summary
+
 Note:
 - Someone adds words and context to the issue summary
 - Steps to reproduce
@@ -123,6 +131,7 @@ Note:
 
 
 ## A patch appears!
+
 Note:
 - Someone writes the first set of changes to code
 - Maybe automated tests fail
@@ -131,6 +140,7 @@ Note:
 
 
 ## Second patch
+
 Note:
 - Builds on the first patch
 - Includes changes between the two patches
@@ -138,6 +148,7 @@ Note:
 
 
 ## Review
+
 Note:
 - Coding standards
 - Does the patch fix the problem?
@@ -147,6 +158,7 @@ Note:
 
 
 ## Reviewed and tested by community
+
 Note:
 - RTBC
 - Core committer reviews the changes and commits
@@ -161,6 +173,7 @@ Note:
 <!-- .slide: data-background="custom/images/littlelixie-patchwork.jpg" data-state="show-header" data-header="Quilt by Keiko Ohno. Photo: CC-BY-NC Littlelixie https://flic.kr/p/pF4Ekn" -->
 ## Contributions
 <!-- .element: class="heading invert" -->
+
 Note:
 - Creating an issue, adding information, screenshots are valuable contributions
 - Reviewing: reading code, before and after screenshots, code style
@@ -186,6 +199,7 @@ Note:
 > <i class="fa fa-quote-right"></i>
 > <span>Jeff Geerling <a href="https://www.drupal.org/u/geerlingguy"><i class="fa fa-drupal"></i> geerlingguy</a></span>
 <!-- .element: class="quote-source" -->
+
 Note:
 - Maintainer of Honeypot module, Drupal.org Packaging Whitelist, 7 years with St. Louis meetup group
 - Local events: meet and speak with many more people, sprints are more focused and less overwhelming
@@ -202,6 +216,7 @@ Note:
 > <i class="fa fa-quote-right"></i>
 > <span>Fredric Mitchell <a href="https://www.drupal.org/u/fmitchell"><i class="fa fa-drupal"></i> fmitchell</a><br><img src="custom/images/fmitchell-headshot.jpg"></span>
 <!-- .element: class="quote-source" -->
+
 Note:
 - Mentorship, staying positive and promoting others doing greak work
 - First got involved through work
@@ -217,6 +232,7 @@ Note:
 >Being involved has given me interesting problems to solve, access to interesting <span class="highlight">smart people</span>, and has taught me a lot about programming and people. <i class="fa fa-quote-right"></i>
 > <span>Cathy Theys <a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> YesCT</a></span>
 <!-- .element: class="quote-source" -->
+
 Note:
 - Works on Drupal core and mentors new contributors
 - Improving contribution process for new and ongoing contributors
@@ -233,6 +249,7 @@ Note:
 >I wouldn't trade that for anything. <i class="fa fa-quote-right"></i>
 ><span>Kevin Thull <a href="https://www.drupal.org/u/kthull"><i class="fa fa-drupal"></i> kthull</a><br><img src="custom/images/kthull-headshot.jpg" style=""></span>
 <!-- .element: class="quote-source" -->
+
 Note:
 - meetup and camp organizer, print support for Drupal core mentoring
 - many firsts: issue queue, meetups, camps
@@ -249,6 +266,7 @@ Note:
 ><i class="fa fa-quote-right"></i>
 ><span>Kalpana Goel <a href="https://www.drupal.org/u/kgoel"><i class="fa fa-drupal"></i> kgoel</a></span>
 <!-- .element: class="quote-source" -->
+
 Note:
 - Contributes patches, reviews, mentors new contributors
 - Tried different areas in span of about 3 years to find the right place: Drupal 8, Symfony
@@ -276,6 +294,9 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/isle-of-drupal-sea-routes.jpg" -->
+## Sea routes
+<!-- .element: class="hidden" -->
+
 Note:
 - Movement: Drupal community is part of intersecting communities
 - Communities around technologies like PHP
@@ -286,6 +307,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Support
 <!-- .element: class="heading" -->
+
 Note:
 - Do you like a challenge? Figuring things out?
 - Support online: forums, chat. In person: at meetups, user groups
@@ -295,6 +317,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Usability testing
 <!-- .element: class="heading" -->
+
 Note:
 - Find and document bugs
 - Test and review patches
@@ -304,6 +327,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Documentation
 <!-- .element: class="heading" -->
+
 Note:
 - Add and remove words, like code
 - Make things clear and easy to understand
@@ -314,6 +338,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Translate
 <!-- .element: class="heading" -->
+
 Note:
 - Translate words
 
@@ -322,6 +347,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Front-end
 <!-- .element: class="heading" -->
+
 Note:
 - Style user interfaces and experiences
 
@@ -330,6 +356,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Back-end
 <!-- .element: class="heading" -->
+
 Note:
 - Review code
 - Write code
@@ -339,6 +366,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Marketing
 <!-- .element: class="heading" -->
+
 Note:
 - Meet other open source contributors?
 - Introduce and promote Drupal
@@ -348,6 +376,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Core initiatives
 <!-- .element: class="heading" -->
+
 Note:
 - Interest areas
 - Initiatives: configuration management, design, mobile, multi-lingual, web services
@@ -359,6 +388,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Attend events
 <!-- .element: class="heading" -->
+
 Note:
 - You are here and you are awesome
 - Even if you can't attend in person, watch recorded talks
@@ -369,6 +399,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Give talks
 <!-- .element: class="heading" -->
+
 Note:
 - Great way to learn about a topic
 - As a beginner at something, you are an *expert* at being a beginner
@@ -378,6 +409,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Help organize events
 <!-- .element: class="heading" -->
+
 Note:
 - Organizing events is a tough but rewarding task
 - Got spare time? Help organize DrupalCamp St. Louis next year
@@ -387,6 +419,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Start a meetup
 <!-- .element: class="heading" -->
+
 Note:
 - Hyperlocal: meetup at your workplace, school
 
@@ -395,6 +428,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Write blog posts
 <!-- .element: class="heading" -->
+
 Note:
 - Similar to giving talks
 
@@ -403,6 +437,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Make screenscasts, podcasts
 <!-- .element: class="heading" -->
+
 Note:
 - Somewhere between giving a talk and writing a blog post
 
@@ -411,6 +446,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Build a module or theme
 <!-- .element: class="heading" -->
+
 Note:
 - Release your custom code to the community
 
@@ -419,6 +455,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Donate
 <!-- .element: class="heading" -->
+
 Note:
 - Drupal 8 Accelerate fund supports work on Drupal 8
 
@@ -427,6 +464,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Join Drupal Association
 <!-- .element: class="heading" -->
+
 Note:
 - Drupal association provides community grants and organizes DrupalCons
 - Europe, North America, South America, Asia
@@ -436,6 +474,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Sponsor an event
 <!-- .element: class="heading" -->
+
 Note:
 - Meetups, camps, sprints need sponsors
 - Offer event space, buy snacks, coffee and tea, lunch
@@ -446,6 +485,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Become a mentor
 <!-- .element: class="heading" -->
+
 Note:
 - Online mentoring on IRC chat
 - In person mentoring at events
@@ -456,6 +496,7 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Encourage others
 <!-- .element: class="heading" -->
+
 Note:
 - One of the most powerful things you can do is give encouragement to another person, and invite them to do something together
 
