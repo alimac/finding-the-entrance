@@ -65,6 +65,9 @@ char • o • jay • ka
 
 
 <!-- .slide: data-background="custom/images/isle-of-drupal.jpg" -->
+Note:
+- Landmarks, but no detail
+- Can we find out how community works from how the project is built?
 
 
 
