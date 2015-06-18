@@ -282,13 +282,12 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Support
 <!-- .element: class="heading" -->
 
 
-
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Usability testing
 <!-- .element: class="heading" -->
 
@@ -300,49 +299,49 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Translate
 <!-- .element: class="heading" -->
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Front-end
 <!-- .element: class="heading" -->
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Back-end
 <!-- .element: class="heading" -->
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Marketing
 <!-- .element: class="heading" -->
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Core initiatives
 <!-- .element: class="heading" -->
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Attend events
 <!-- .element: class="heading" -->
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Give talks
 <!-- .element: class="heading" -->
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Help organize events
 <!-- .element: class="heading" -->
 
@@ -360,43 +359,43 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Make podcasts
 <!-- .element: class="heading" -->
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Build a module or theme
 <!-- .element: class="heading" -->
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Donate
 <!-- .element: class="heading" -->
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Join Drupal Association
 <!-- .element: class="heading" -->
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Sponsor an event
 <!-- .element: class="heading" -->
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Become a mentor
 <!-- .element: class="heading" -->
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Encourage others
 <!-- .element: class="heading" -->
 
