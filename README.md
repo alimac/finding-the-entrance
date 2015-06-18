@@ -145,7 +145,11 @@ Note:
 
 
 
-review
+## Reviewed and tested by community
+Note:
+- RTBC
+- Core committer reviews the changes and commits
+- Issue creator, screenshot creator, patch contributors, reviewers get commit mentions
 
 
 
