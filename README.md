@@ -104,19 +104,13 @@ Note:
 
 
 
-bug report, feature, enhancement
-
-
-
-new issue
-
-
-
-me too
-
-
-
-issue summary
+<!-- .slide: data-background="custom/images/wlodi-big-red-button.jpg" data-state="show-header" data-header="Photo: CC-BY-SA włodi https://flic.kr/p/5GCeGg, cropped" -->
+## Starting point
+<!-- .element: class="heading invert" -->
+Note:
+- A bug report, a feature request, an enhancement
+- Someone creates an issue in the issue queue on drupal.org
+- Someone adds a comment "Me too!"
 
 
 
