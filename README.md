@@ -285,29 +285,43 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Support
 <!-- .element: class="heading" -->
+Note:
+- Do you like a challenge? Figuring things out?
+- Support online: forums, chat. In person: at meetups, user groups
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Usability testing
 <!-- .element: class="heading" -->
+Note:
+- Find and document bugs
+- Test and review patches
 
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Write documentation
 <!-- .element: class="heading invert" -->
+Note:
+- Add and remove words, like code
+- Make things clear and easy to understand
+- Describe new features
 
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Translate
 <!-- .element: class="heading" -->
+Note:
+- Translate words
 
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Front-end
 <!-- .element: class="heading" -->
+Note:
+- Style user interfaces and experiences
 
 
 
@@ -320,6 +334,8 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Marketing
 <!-- .element: class="heading" -->
+Note:
+- Introduce and promote Drupal
 
 
 
@@ -332,18 +348,26 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Attend events
 <!-- .element: class="heading" -->
+Note:
+- You are here and you are awesome
 
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Give talks
 <!-- .element: class="heading" -->
+Note:
+- Great way to learn about a topic
+- As a beginner at something, you are an *expert* at being a beginner
 
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Help organize events
 <!-- .element: class="heading" -->
+Note:
+- Organizing events is a tough but rewarding task
+- Got spare time? Help organize DrupalCamp St. Louis next year
 
 
 
@@ -356,6 +380,8 @@ Note:
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ## Write blog posts
 <!-- .element: class="heading" -->
+Note:
+- Similar to giving talks
 
 
 
