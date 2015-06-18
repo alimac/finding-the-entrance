@@ -507,6 +507,7 @@ Note:
 
 
 
+<!-- .slide: data-background="custom/images/nancy-nance-door.jpg" data-state="show-header" data-header="Photo: CC-BY nancynance https://flic.kr/p/srX6Dn" -->
 > <i class="fa fa-quote-left"></i>
 > When you develop an interest, it usually comes from an environment that de-dramatizes things.
 > Because then you’re able to <span class="highlight">find your own entrance</span> into it.
