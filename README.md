@@ -265,6 +265,7 @@ Note:
 ><i class="fa fa-quote-right"></i>
 ><span>Karen Da Cruz <a href="https://www.drupal.org/u/kandra"><i class="fa fa-drupal"></i> kandra</a></span>
 <!-- .element: class="quote-source" -->
+
 Note:
 - Co-organizer of Drupal Lima meetup: shares knowledge through workshops and talks, effort to involve women
 - Introduced by a friend to open source: ability to build sustainable career path
