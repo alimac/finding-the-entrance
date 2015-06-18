@@ -182,10 +182,14 @@ Note:
 ## Jeff Geerling
 <!-- .element: class="hidden" -->
 > <i class="fa fa-quote-left"></i>
-> It helps to have a huge network of local and regional friends, whether it be on Twitter, in IRC, or in person.
+> It helps to have a huge network of <span class="highlight">local and regional friends</span>, whether it be on Twitter, in IRC, or in person.
 > <i class="fa fa-quote-right"></i>
 > <span>Jeff Geerling <a href="https://www.drupal.org/u/geerlingguy"><i class="fa fa-drupal"></i> geerlingguy</a></span>
 <!-- .element: class="quote-source" -->
+Note:
+- Maintainer of Honeypot module, Drupal.org Packaging Whitelist, 7 years with St. Louis meetup group
+- Local events: meet and speak with many more people, sprints are more focused and less overwhelming
+- Reviews patches, submits patches and feedback for core and contributed projects
 
 
 
@@ -194,10 +198,15 @@ Note:
 <!-- .element: class="hidden" -->
 > <!-- .element: class="invert" -->
 > <i class="fa fa-quote-left"></i>
-> I've met a lot of great people, from Minneapolis to New York to Costa Rica and San Francisco. Having a network to lean on and get support from is always helpful.
+> I've met a lot of great people, from Minneapolis to New York to Costa Rica and San Francisco. Having a <span class="highlight">network to lean on</span> and get support from is always helpful.
 > <i class="fa fa-quote-right"></i>
 > <span>Fredric Mitchell <a href="https://www.drupal.org/u/fmitchell"><i class="fa fa-drupal"></i> fmitchell</a><br><img src="custom/images/fmitchell-headshot.jpg"></span>
 <!-- .element: class="quote-source" -->
+Note:
+- Mentorship, staying positive and promoting others doing greak work
+- First got involved through work
+- Promotes Drupal in all his ventures, including own startup
+- Volunteers and speaks at events
 
 
 
