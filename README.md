@@ -20,14 +20,25 @@
 
 <!-- .slide: data-background="custom/images/opening-slide-5.png" -->
 
+Note:
+- First time in St. Louis, though I have take then trip to almost-St. Louis many times
+
 
 
 
 <iframe width='100%' height='650px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/alimac.mej466bj/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoiYWxpbWFjIiwiYSI6Ill4dmFqWDQifQ.2wLpCVaXG-sr8bTo1ueM0A'></iframe>
 
+Note:
+- Staunton, IL - about 40 miles northeast
+- Tour de Donut - 32-mile bicycle race with 2 donut stops
+- 5 minutes off total time for each donut eaten
+
 
 
 <!-- .slide: data-background="custom/images/tour-de-donut.jpg" data-background-size="1068px" -->
+
+Note:
+- Personal record: 2 donuts
 
 
 
@@ -37,6 +48,9 @@
 
 
 ## [bit.ly/find-entrance](http://bit.ly/find-entrance)
+
+Note:
+- Slides and speaker notes available
 
 
 
@@ -50,17 +64,35 @@
 char • o • jay • ka
 <!-- .element style="font-size: x-large;word-spacing: 8px;" -->
 
+Note:
+- Developer and system administrator based in Chicago
+- Doing Drupal for ~4 years, active in the community for ~2 years
+- Where is the Drupal community?
+
 
 
 <!-- .slide: data-background="custom/images/xkcd-online-communities-map.png" data-background-size="680px" data-state="show-header" data-header="Source: xkcd.com/802/" -->
+
+Note:
+- "Map of Online Communities" by Randall Munroe of XKCD
+- Slightly out of date (circa 2010)
+- Drupal and community have been around longer
 
 
 
 <!-- .slide: data-background="custom/images/xkcd-fragment-1.jpg" data-state="show-header" data-header="Source: xkcd.com/802/" -->
 
+Note:
+- Drupal community uses IRC for online chat
+- First search location: IRC Isles
+- Too close to Troll Bay
+
 
 
 <!-- .slide: data-background="custom/images/xkcd-fragment-2.jpg" data-state="show-header" data-header="Source: xkcd.com/802/" -->
+
+Note:
+- Sea of Opinions?
 
 
 
@@ -178,6 +210,7 @@ Note:
 - Creating an issue, adding information, screenshots are valuable contributions
 - Reviewing: reading code, before and after screenshots, code style
 - Organizing the event
+
 
 
 <!-- .slide: data-background="custom/images/eric-the-last.jpg" data-state="show-header" data-header="" style="margin-top: 150px; margin-left: 300px;" -->
@@ -502,15 +535,31 @@ Note:
 
 
 
+<!-- .slide: data-background="custom/images/australian-afternoon.jpg" data-state="show-header" data-header="" -->
 ## My story
+<!-- .element: class="heading invert" -->
+
+Note:
+- Feeling of inadequacy about making a meaningful contribution
+- Global Sprint Weekend 2014: asked about my goals ("what do you want to learn?"), autonomy in defining objectives was powerful
+- benefits: learned to ask questions, be around accessibly smart and kind people, learned to communicate in shared spaces vs 1-on-1, learned to be explicit, learned to break complex things down into simpler bits, learning to delegate
 
 
 
 
 <!-- .slide: data-background="custom/images/nancy-nance-door.jpg" data-state="show-header" data-header="Photo: CC-BY nancynance https://flic.kr/p/srX6Dn" -->
+## Tomorrow
+<!-- .element: class="hidden" -->
 > <i class="fa fa-quote-left"></i>
 > When you develop an interest, it usually comes from an environment that de-dramatizes things.
 > Because then you’re able to <span class="highlight">find your own entrance</span> into it.
 > <i class="fa fa-quote-right"></i>
 > <span><a href="http://pitchfork.com/thepitch/746-what-happens-when-there-are-no-boys-in-the-room-a-report-from-robyns-tekla-conference/">Robyn</a></span>
 <!-- .element: class="quote-source" -->
+
+Note:
+- People of all skills welcome at the sprint
+- Write down top three things about Drupal (or related technologies) that you are interested in, right now.
+- Pick a thing on the list. break it down into smaller parts, if needed
+- Learn it! ask questions
+- Learn more about core contribution process
