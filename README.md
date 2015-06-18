@@ -72,7 +72,13 @@ char • o • jay • ka
 
 
 
-x-ray
+<!-- .slide: data-background="custom/images/christoph-spiegl-code.jpg" data-state="show-header" data-header="Photo: CC-BY-NC Christoph Spiegl http://flic.kr/p/7DmgDW, cropped" -->
+## Code
+<!-- .element: class="heading" -->
+Note:
+- Download Drupal, unpack and open up in a text editor
+- Different kinds of code: PHP, HTML, CSS, Javascript
+- How does that code get there?
 
 
 
