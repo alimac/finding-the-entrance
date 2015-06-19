@@ -21,7 +21,8 @@
 <!-- .slide: data-background="custom/images/opening-slide-5.png" -->
 
 Note:
-- First time in St. Louis, though I have take then trip to almost-St. Louis many times
+- Hello!
+- First time in St. Louis, though I have taken Interstate 55 between Chicago and St. Louis many times
 
 
 
@@ -29,15 +30,18 @@ Note:
 <iframe width='100%' height='650px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/alimac.mej466bj/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoiYWxpbWFjIiwiYSI6Ill4dmFqWDQifQ.2wLpCVaXG-sr8bTo1ueM0A'></iframe>
 
 Note:
-- Staunton, IL - about 40 miles northeast
-- Tour de Donut - 32-mile bicycle race with 2 donut stops
-- 5 minutes off total time for each donut eaten
+- Came 40 miles short: Staunton, IL
+- Northeast and across the state border
+- Home of Tour de Donut
 
 
 
 <!-- .slide: data-background="custom/images/tour-de-donut.jpg" data-background-size="1068px" -->
 
 Note:
+- 32 mile bike race
+- 2 donut stops along the way
+- For each donut eaten, 5 minutes taken off your ride time
 - Personal record: 2 donuts
 
 
@@ -77,6 +81,7 @@ Note:
 - "Map of Online Communities" by Randall Munroe of XKCD
 - Slightly out of date (circa 2010)
 - Drupal and community have been around longer
+- ... where is it?
 
 
 
