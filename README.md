@@ -246,7 +246,8 @@ Note:
 Note:
 - Creating an issue, adding information, posting patches and reviewing are all valuable contributions
 - Invisible element: organizing the event
-- Let's bring the focus back to the *people* that make the Drupal community
+- Let's bring the focus to the *people* that make the Drupal community
+- Asked people what they do in the community, why they do what they do, and how they got started
 
 
 
@@ -359,11 +360,12 @@ Note:
 <!-- .element: class="quote-source" -->
 
 Note:
-- Co-organizer of Drupal Lima meetup: shares knowledge through workshops and talks, effort to involve women
+- Co-organizer of Drupal Lima meetup: shares knowledge through workshops and talks
 - Introduced by a friend to open source: ability to build sustainable career path
 - Goal: increase women's participation in the tech community
-- Learned mor about people than tech: being a team player vs. lone wolf
+- Learned more about people than tech: being a team player vs. lone wolf
 - Visibility converts into reputation, which gives opportunities to grow career-wise and as a person
+- Let's look at the Drupal island again
 
 
 
@@ -375,6 +377,7 @@ Note:
 - Movement: Drupal community is part of intersecting communities
 - Communities around technologies like PHP
 - Topics: accessibility, multilingual, user experience, automation
+- Let's take a look at the many ways you can get involved
 
 
 
