@@ -140,7 +140,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/amanda-sewing-patches.jpg" data-state="show-header" data-header="Photo: CC-BY-NC-ND amanda https://flic.kr/p/7NSvF, cropped" -->
-<img src="custom/images/patch.png">
+<img src="custom/images/patch.png" alt="Contents of a patch file">
 <!-- .element: class="stretch" -->
 
 Note:
