@@ -82,7 +82,10 @@ h2.hidden {
   letter-spacing: 0;
 }
 
-.reveal blockquote h2 {
+.reveal blockquote h1,
+.reveal blockquote h2,
+.reveal blockquote h3,
+.reveal blockquote h4 {
   font-style: normal;
   margin-top: .5em;
 }
