@@ -597,7 +597,7 @@ Note:
 Note:
 - Feeling of inadequacy about making a meaningful contribution
 - Global Sprint Weekend 2014: asked about my goals ("what do you want to learn?"), autonomy in defining objectives was powerful
-- benefits: learned to ask questions, be around accessibly smart and kind people, learned to communicate in shared spaces vs 1-on-1, learned to be explicit, learned to break complex things down into simpler bits, learning to delegate
+- benefits: being around *accessibly smart and kind people*, learned to ask questions
 
 
 
