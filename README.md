@@ -381,11 +381,11 @@ Note:
 
 
 
-## 20
+## 19
 <!-- .element: class="heading" style="font-size: 6em;" -->
 
 Note:
-- 20 ways to "enter" the Drupal community
+- 19 ways to "enter" the Drupal community
 - Not in any particular order
 - You might already be doing this stuff!
 
@@ -398,6 +398,7 @@ Note:
 Note:
 - Do you like a challenge? Figuring things out?
 - Support online: forums, chat. In person: at meetups, user groups
+- Providing support makes you smarter and trains your empathy
 
 
 
@@ -406,8 +407,9 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- Find and document bugs
-- Test and review patches
+- Do you like to break things? Point out broken things?
+- Find and document bugs. You don't have to fix them!
+- Test and review patches: do they work?
 
 
 
@@ -416,9 +418,9 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- Add and remove words, like code
-- Make things clear and easy to understand
-- Describe new features
+- "Documentation is worth its weight in code."
+- All about adding and removing words, like code
+- Goal: make things clear and easy to understand
 
 
 
@@ -427,26 +429,22 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- Translate words
+- Do you know a language that's not English?
+- 100+ translations of Drupal
+- Fully translated: Ukrainian, Swedish, Spanish
+- I'm still hoping someone will translate Drupal into Klingon
 
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-### Front-end
+### Contribute code
 <!-- .element: class="heading" -->
 
 Note:
-- Style user interfaces and experiences
-
-
-
-<!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-### Back-end
-<!-- .element: class="heading" -->
-
-Note:
+- Work on front-end or back-end
 - Review code
 - Write code
+- Always document code: lack of documentation is a bug!
 
 
 
@@ -455,8 +453,9 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- Meet other open source contributors?
-- Introduce and promote Drupal
+- Marketing is not the same as selling.
+- As simple as introducing and promoting Drupal to people who haven't heard of it
+- Tell someone about how Drupal helped you address your needs
 
 
 
@@ -465,8 +464,8 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- Interest areas
-- Initiatives: configuration management, design, mobile, multi-lingual, web services
+- Interest areas that have strategic importance for the Drupal projects
+- Configuration management, design, mobile, multi-lingual, web services
 - Topics: accessibility, documentation, performance, testing, usability
 - [MAINTAINERS.txt](http://cgit.drupalcode.org/drupal/tree/core/MAINTAINERS.txt)
 
@@ -477,7 +476,7 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- You are here and you are awesome
+- Check this one off the list: you are here and you are awesome
 - Even if you can't attend in person, watch recorded talks
 - Give feedback to presenters: "I really liked... I wish that..."
 
@@ -489,7 +488,8 @@ Note:
 
 Note:
 - Great way to learn about a topic
-- As a beginner at something, you are an *expert* at being a beginner
+- 20 minute talk about Vagrant: spent many hours getting into the nuts and bolts of Vagrant
+- "I'm just a beginner": as a beginner at something, you are already an *expert* at being a beginner
 
 
 
@@ -498,7 +498,7 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- Organizing events is a tough but rewarding task
+- Putting on events like DrupalCamp St Louis is a tough but rewarding task
 - Got spare time? Help organize DrupalCamp St. Louis next year
 
 
@@ -508,7 +508,8 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- Hyperlocal: meetup at your workplace, school
+- Maybe there aren't any Drupal user groups in your area
+- Start your own!i It can be hyperlocal: meetup at your workplace, school
 
 
 
@@ -517,7 +518,9 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- Similar to giving talks
+- Similar to giving talks, except the audience is not looking right at you
+- Describe a particularly frustrating experience and how you solved it
+- Blog posts are your personal documentation
 
 
 
@@ -527,6 +530,8 @@ Note:
 
 Note:
 - Somewhere between giving a talk and writing a blog post
+- There are many great podcasts to listen to while you are driving or on a train
+- There is always room to make your own!
 
 
 
@@ -535,16 +540,24 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
+- Contributed projects are mini-Drupal projects
+- Important to sustain the core project
 - Release your custom code to the community
+- Get others to work on it, fund bugs and make improvements
 
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
 ### Donate
 <!-- .element: class="heading" -->
+[Drupal 8 Accelerate](https://assoc.drupal.org/d8accelerate)
+<!-- .element: class="fragment" -->
 
 Note:
-- Drupal 8 Accelerate fund supports work on Drupal 8
+- Drupal is free to use, it's open source
+- Working on open source is not free. It costs time (not spent with family, or working to support oneself)
+- Drupal 8 Accelerate fund supports work being done on Drupal 8
+- Brings people together for critical sprints on important topics
 
 
 
@@ -554,8 +567,8 @@ Note:
 
 Note:
 - Drupal association provides community grants and organizes DrupalCons
+- Europe, North America, South America, coming in 2016: Asia
 - Membership start at $15
-- Europe, North America, South America, Asia
 
 
 
@@ -564,9 +577,9 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- Meetups, camps, sprints need sponsors
-- Offer event space, buy snacks, coffee and tea, lunch
-- Meet current and future developers, contributors, project managers, generalists, designers and learners
+- Meetups, camps, sprints all need sponsors
+- Doesn't always have to be money: offer event space? Buy snacks, coffee and tea, lunch?
+- Benefit: meet current and future developers, contributors, project managers, generalists, designers and learners
 
 
 
@@ -575,9 +588,9 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- Online mentoring on IRC chat
+- Takes place online and in person
+- Online mentoring every week on IRC chat
 - In person mentoring at events
-- One on one mentoring
 
 
 
@@ -586,6 +599,7 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
+- A story from DrupalCon Los Angeles
 - One of the most powerful things you can do is give encouragement to another person, and invite them to do something together
 
 
@@ -595,9 +609,11 @@ Note:
 <!-- .element: class="heading invert" -->
 
 Note:
-- Feeling of inadequacy about making a meaningful contribution
+- Went to DrupalCon Denver, Global Sprint Weekend, DrupalCon Portland
+- Overwhelming, feeling of inadequacy about making a meaningful contribution
 - Global Sprint Weekend 2014: asked about my goals ("what do you want to learn?"), autonomy in defining objectives was powerful
-- benefits: being around *accessibly smart and kind people*, learned to ask questions
+- key benefit: learned to ask questions
+- what sustains me: being around *accessibly smart and kind people*
 
 
 
@@ -613,8 +629,7 @@ Note:
 <!-- .element: class="quote-source" -->
 
 Note:
-- People of all skills welcome at the sprint
+- Sprint tomorrow: people of all skills welcome
 - Write down top three things about Drupal (or related technologies) that you are interested in, right now.
-- Pick a thing on the list. break it down into smaller parts, if needed
-- Learn it! ask questions
-- Learn more about core contribution process
+- Pick a thing on the list. Maybe break it down into smaller parts, if needed
+- Learn it! And ask questions
