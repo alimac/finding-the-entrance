@@ -250,15 +250,17 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/eric-the-last.jpg" data-state="show-header" data-header="" style="margin-top: 175px; margin-left: 200px;" -->
-> ## Eric Brown <a href="https://www.drupal.org/user/1037606"><i class="fa fa-drupal"></i> ericthelast</a>
+## Eric Brown
+<!-- .element: class="hidden" -->
+> #### Eric Brown <a href="https://www.drupal.org/user/1037606"><i class="fa fa-drupal"></i> ericthelast</a>
 > <i class="fa fa-quote-left"></i>
-> I was always struck by his willingness to listen and share his knowledge. I learned a lot from him, not only technically, but by his modeling of humility and genuine care for others.
+> Eric was the cornerstone of the St. Louis user group. He was always the first to offer help to anyone that needed it, and believed strongly in making Drupal accessible to anyone that had interest.
 > <i class="fa fa-quote-right"></i>
-> <span>Source: [ericthelast.org](http://ericthelast.org)</span>
+> <span>Cecily Borzillo <a href="https://www.drupal.org/u/cecrs"><i class="fa fa-drupal"></i> cecrs</a></span>
 <!-- .element: class="quote-source" -->
 
 Note:
-- In the words of Cecily Borzillo: "Eric was the cornerstone of the St. Louis user group. He was always the first to offer help to anyone that needed it, and believed strongly in making Drupal accessible to anyone that had interest."
+- I have not met Eric, but by meeting the St. Louis community I can experience and appreciate the legacy that Eric built here
 
 
 
