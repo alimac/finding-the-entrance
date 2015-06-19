@@ -186,6 +186,7 @@ Note:
 
 
 ## Issue summary
+<img src="custom/images/issue-summary.png" alt="Screenshot of drupal.org example issue summary" class="fragment">
 
 Note:
 - Original post serves as "issue summary"
