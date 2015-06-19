@@ -85,7 +85,7 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/xkcd-fragment-1.jpg" data-background-size="1280px" data-state="show-header" data-header="Source: xkcd.com/802/" -->
+<!-- .slide: data-background="custom/images/xkcd-fragment-1-annotated.png" data-background-size="1280px" data-state="show-header" data-header="Source: xkcd.com/802/" -->
 
 Note:
 - Drupal community uses IRC for online chat
@@ -94,7 +94,7 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/xkcd-fragment-2.jpg" data-background-size="1280px" data-state="show-header" data-header="Source: xkcd.com/802/" -->
+<!-- .slide: data-background="custom/images/xkcd-fragment-2-annotated.png" data-background-size="1280px" data-state="show-header" data-header="Source: xkcd.com/802/" -->
 
 Note:
 - Bay of Drama? Buzzword Bay?
