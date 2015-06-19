@@ -191,33 +191,34 @@ Note:
 - Original post serves as "issue summary"
 - Anyone can add words to the issue summary
 - Steps to reproduce, screenshots or screencasts
+- Finally...
 
 
 
 ## A patch appears!
 
 Note:
-- Someone writes the first set of changes to code
-- Maybe automated tests fail
+- Someone writes the first set of changes to the Drupal codebase that fix the problem
 - Maybe patch is incomplete
+- Maybe automated tests fail
+- But...
 
 
 
 ## Second patch
 
 Note:
-- Builds on the first patch
-- Includes changes between the two patches
-
+- Someone else can build on the work done in the first patch
+- Process can be repeated, until the patch is ready to be reviewed
 
 
 ## Review
 
 Note:
-- Coding standards
+- Reviewing is important to the process of making Drupal better
 - Does the patch fix the problem?
-- Before and after screenshots
-- Reviewing is crucial for getting changes committed and making Drupal better
+- Post before and after screenshots
+- Check coding standards
 
 
 
@@ -225,8 +226,10 @@ Note:
 
 Note:
 - RTBC
-- Core committer reviews the changes and commits
-- Issue creator, screenshot creator, patch contributors, reviewers get commit mentions
+- Drupal core committers review issues that reach RTBC status
+- They check the changes and commit, if everything looks OK
+- Issue creator, screenshot creator, patch contributors, reviewers all get commit mentions
+- Watch this process happen live at 2014 DrupalCamp NYC
 
 
 
@@ -239,9 +242,9 @@ Note:
 <!-- .element: class="heading invert" -->
 
 Note:
-- Creating an issue, adding information, screenshots are valuable contributions
-- Reviewing: reading code, before and after screenshots, code style
-- Organizing the event
+- Creating an issue, adding information, posting patches and reviewing are all valuable contributions
+- Invisible element: organizing the event
+- Let's bring the focus back to the *people* that make the Drupal community
 
 
 
@@ -252,6 +255,9 @@ Note:
 > <i class="fa fa-quote-right"></i>
 > <span>Source: [ericthelast.org](http://ericthelast.org)</span>
 <!-- .element: class="quote-source" -->
+
+Note:
+- In the words of Cecily Borzillo: "Eric was the cornerstone of the St. Louis user group. He was always the first to offer help to anyone that needed it, and believed strongly in making Drupal accessible to anyone that had interest."
 
 
 
