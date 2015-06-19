@@ -117,7 +117,7 @@ Note:
 <img src="custom/images/drupal-releases.png" class="fragment">
 
 Note:
-- Maybe we can find out how community works by looking at how the project is built?
+- Maybe we can get a better picture of how community looks like, how it works by looking at how the project is built?
 - Ever wonder what goes into these files?
 
 
@@ -130,7 +130,7 @@ Note:
 - Download Drupal, unpack and open up in a text editor
 - Different kinds of code: PHP, HTML, CSS, Javascript
 - How did that code get there?
-- How do we change the code, and make Drupal event better?
+- How do we change the code, and make Drupal even better?
 
 
 
@@ -139,7 +139,8 @@ Note:
 <!-- .element: class="heading invert" -->
 
 Note:
-- Changes to code: adding code, removing code
+- First let's think about what changes to code are: adding code, removing code
+- Changes are grouped together in a set.
 - Set of changes is packaged into a file ("patch")
 
 
