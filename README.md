@@ -162,7 +162,8 @@ Note:
 <!-- .element: class="heading invert" -->
 
 Note:
-- A bug report, a feature request, an enhancement
+- Someone makes a feature request or reports a bug
+- Create a new issue on drupal.org
 
 
 
@@ -172,7 +173,7 @@ Note:
 > <i class="fa fa-quote-right"></i>
 
 Note:
-- Someone creates an issue in the issue queue on drupal.org
+- Not a great description of the problem, but it's a start
 - And maybe...
 
 
@@ -253,7 +254,7 @@ Note:
 - Creating an issue, adding information, posting patches and reviewing are all valuable contributions
 - Invisible element: organizing the event
 - Let's bring the focus to the *people* that make the Drupal community
-- Asked people what they do in the community, why they do what they do, and how they got started
+- I asked a few people what they do in the community, why they do what they do, and how they got started. Here is what they said
 
 
 
@@ -268,7 +269,8 @@ Note:
 <!-- .element: class="quote-source" -->
 
 Note:
-- I have not met Eric, but by meeting the St. Louis community I can experience and appreciate the legacy that Eric built here
+- Starting off with Eric because this camp is dedicated in his memory
+- I have not met Eric, but by meeting the St. Louis community I am grateful to experience and appreciate the legacy that Eric built here
 
 
 
@@ -282,8 +284,8 @@ Note:
 <!-- .element: class="quote-source" -->
 
 Note:
-- Maintainer of Honeypot module, Drupal.org Packaging Whitelist, 7 years with St. Louis meetup group
-- Local events: meet and speak with many more people, sprints are more focused and less overwhelming
+- 7 years with St. Louis meetup group, maintainer of Honeypot module, one of maintainers of Drupal.org Packaging Whitelist
+- Local events vs large cons: meet and speak with many more people, sprints are more focused and less overwhelming
 - Reviews patches, submits patches and feedback for core and contributed projects
 
 
@@ -299,7 +301,7 @@ Note:
 <!-- .element: class="quote-source" -->
 
 Note:
-- Mentorship, staying positive and promoting others doing greak work
+- Mentorship, staying positive and promoting others doing great work
 - First got involved through work
 - Promotes Drupal in all his ventures, including own startup
 - Volunteers and speaks at events
