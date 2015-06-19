@@ -157,8 +157,31 @@ Note:
 
 Note:
 - A bug report, a feature request, an enhancement
+
+
+
+<!-- .slide: data-background="custom/images/wlodi-big-red-button.jpg" data-state="show-header" data-header="Photo: CC-BY-SA włodi https://flic.kr/p/5GCeGg, cropped" -->
+> <i class="fa fa-quote-left"></i>
+> I mashed the button, but it didn't do anything.
+> <i class="fa fa-quote-right"></i>
+
+Note:
 - Someone creates an issue in the issue queue on drupal.org
-- Someone adds a comment "Me too!"
+- And maybe...
+
+
+
+<!-- .slide: data-background="custom/images/wlodi-big-red-button.jpg" data-state="show-header" data-header="Photo: CC-BY-SA włodi https://flic.kr/p/5GCeGg, cropped" -->
+> <!-- .element: class="invert" -->
+> <i class="fa fa-quote-left"></i>
+> Me too!
+> <i class="fa fa-quote-right"></i>
+> <i class="fa fa-heart fragment current-visible" style="color: #c00;"></i>
+
+Note:
+- Someone comes along and adds a "Me too!" comment
+- Meetoos are great. Meetoos validate our pain.
+- What next?
 
 
 
