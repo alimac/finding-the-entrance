@@ -381,8 +381,18 @@ Note:
 
 
 
+## 20
+<!-- .element: class="heading" style="font-size: 6em;" -->
+
+Note:
+- 20 ways to "enter" the Drupal community
+- Not in any particular order
+- You might already be doing this stuff!
+
+
+
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Support
+### Support
 <!-- .element: class="heading" -->
 
 Note:
@@ -392,7 +402,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Usability testing
+### Usability testing
 <!-- .element: class="heading" -->
 
 Note:
@@ -402,7 +412,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Documentation
+### Documentation
 <!-- .element: class="heading" -->
 
 Note:
@@ -413,7 +423,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Translate
+### Translate
 <!-- .element: class="heading" -->
 
 Note:
@@ -422,7 +432,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Front-end
+### Front-end
 <!-- .element: class="heading" -->
 
 Note:
@@ -431,7 +441,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Back-end
+### Back-end
 <!-- .element: class="heading" -->
 
 Note:
@@ -441,7 +451,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Marketing
+### Marketing
 <!-- .element: class="heading" -->
 
 Note:
@@ -451,7 +461,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Core initiatives
+### Core initiatives
 <!-- .element: class="heading" -->
 
 Note:
@@ -463,7 +473,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Attend events
+### Attend events
 <!-- .element: class="heading" -->
 
 Note:
@@ -474,7 +484,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Give talks
+### Give talks
 <!-- .element: class="heading" -->
 
 Note:
@@ -484,7 +494,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Help organize events
+### Help organize events
 <!-- .element: class="heading" -->
 
 Note:
@@ -494,7 +504,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Start a meetup
+### Start a meetup
 <!-- .element: class="heading" -->
 
 Note:
@@ -503,7 +513,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Write blog posts
+### Write blog posts
 <!-- .element: class="heading" -->
 
 Note:
@@ -512,7 +522,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Make screenscasts, podcasts
+### Make screenscasts, podcasts
 <!-- .element: class="heading" -->
 
 Note:
@@ -521,7 +531,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Build a module or theme
+### Build a module or theme
 <!-- .element: class="heading" -->
 
 Note:
@@ -530,7 +540,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Donate
+### Donate
 <!-- .element: class="heading" -->
 
 Note:
@@ -539,17 +549,18 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Join Drupal Association
+### Join Drupal Association
 <!-- .element: class="heading" -->
 
 Note:
 - Drupal association provides community grants and organizes DrupalCons
+- Membership start at $15
 - Europe, North America, South America, Asia
 
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Sponsor an event
+### Sponsor an event
 <!-- .element: class="heading" -->
 
 Note:
@@ -560,7 +571,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Become a mentor
+### Become a mentor
 <!-- .element: class="heading" -->
 
 Note:
@@ -571,7 +582,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-## Encourage others
+### Encourage others
 <!-- .element: class="heading" -->
 
 Note:
