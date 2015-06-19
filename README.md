@@ -85,14 +85,15 @@ Note:
 Note:
 - Drupal community uses IRC for online chat
 - First search location: IRC Isles
-- Too close to Troll Bay
+- No luck, and too close to Troll Bay
 
 
 
 <!-- .slide: data-background="custom/images/xkcd-fragment-2.jpg" data-background-size="1280px" data-state="show-header" data-header="Source: xkcd.com/802/" -->
 
 Note:
-- Sea of Opinions?
+- Bay of Drama? Buzzword Bay?
+- Adrift in the Sea of Opinions
 
 
 
@@ -101,8 +102,9 @@ Note:
 <!-- .element: class="hidden" -->
 
 Note:
+- Found: Isle of Drupal
 - Landmarks, but no detail
-- Can we find out how community works from how the project is built?
+- Maps are static, need another approach
 
 
 
@@ -110,6 +112,7 @@ Note:
 <img src="custom/images/drupal-releases.png" class="fragment">
 
 Note:
+- Maybe we can find out how community works by looking at how the project is built?
 - Ever wonder what goes into these files?
 
 
@@ -121,7 +124,8 @@ Note:
 Note:
 - Download Drupal, unpack and open up in a text editor
 - Different kinds of code: PHP, HTML, CSS, Javascript
-- How does that code get there?
+- How did that code get there?
+- How do we change the code, and make Drupal event better?
 
 
 
@@ -130,8 +134,8 @@ Note:
 <!-- .element: class="heading invert" -->
 
 Note:
-- Changes: adding code, removing code, replacing code
-- Sets of changes are packaged into "patches"
+- Changes to code: adding code, removing code
+- Set of changes is packaged into a file ("patch")
 
 
 
@@ -140,9 +144,10 @@ Note:
 <!-- .element: class="stretch" -->
 
 Note:
-- A patch is a text file
+- A patch is a plain text file
 - Lines added are marked with +, lines removed are marked with -
 - Patch is applied to the project codebase, transforming it
+- Where do patches come from?
 
 
 
@@ -160,9 +165,9 @@ Note:
 ## Issue summary
 
 Note:
-- Someone adds words and context to the issue summary
-- Steps to reproduce
-- Screenshots or screencasts
+- Original post serves as "issue summary"
+- Anyone can add words to the issue summary
+- Steps to reproduce, screenshots or screencasts
 
 
 
