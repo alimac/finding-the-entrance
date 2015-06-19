@@ -62,7 +62,7 @@ Note:
 <a href="https://twitter.com/czaroxiejka"><i class="fa fa-twitter"></i> czaroxiejka</a>
 
 char • o • jay • ka
-<!-- .element style="font-size: x-large;word-spacing: 8px;" -->
+<!-- .element class="fragment" style="word-spacing: 8px;" -->
 
 Note:
 - Developer and system administrator based in Chicago
