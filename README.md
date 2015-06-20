@@ -254,7 +254,7 @@ Note:
 - Creating an issue, adding information, posting patches and reviewing are all valuable contributions
 - Invisible element: organizing the event
 - Let's bring the focus to the *people* that make the Drupal community
-- I asked a few people what they do in the community, why they do what they do, and how they got started. Here is what they said
+- I asked a few people what they do in the community, why they do what they do, and how they got started.
 
 
 
@@ -303,8 +303,7 @@ Note:
 Note:
 - Mentorship, staying positive and promoting others doing great work
 - First got involved through work
-- Promotes Drupal in all his ventures, including own startup
-- Volunteers and speaks at events
+- Volunteers and speaks at events, promotes Drupal in all his ventures, including own startup
 
 
 
@@ -334,10 +333,11 @@ Note:
 <!-- .element: class="quote-source" -->
 
 Note:
-- meetup and camp organizer, print support for Drupal core mentoring
-- many firsts: issue queue, meetups, camps
-- affordable session recording kit
-- shares non-Drupal expertise to fill gaps needed at events
+- Meetup and camp organizer, print support for Drupal core mentoring
+- Many firsts: working in the issue queue, attending meetups and camps
+- Goal: affordable session recording kit
+- Shares non-Drupal expertise to fill gaps needed in organizing events
+- Superpower: figuring out the mystery of catering
 
 
 
@@ -351,8 +351,8 @@ Note:
 <!-- .element: class="quote-source" -->
 
 Note:
-- Contributes patches, reviews, mentors new contributors
 - Tried different areas in span of about 3 years to find the right place: Drupal 8, Symfony
+- Contributes patches, reviews, mentors new contributors
 - Increased social circle and confidence
 
 
@@ -371,9 +371,8 @@ Note:
 - Co-organizer of Drupal Lima meetup: shares knowledge through workshops and talks
 - Introduced by a friend to open source: ability to build sustainable career path
 - Goal: increase women's participation in the tech community
-- Learned more about people than tech: being a team player vs. lone wolf
 - Visibility converts into reputation, which gives opportunities to grow career-wise and as a person
-- Let's look at the Drupal island again
+- Let's look at the Drupal island one more time
 
 
 
