@@ -448,9 +448,8 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- Work on front-end or back-end
-- Review code
-- Write code
+- Do you like writing code?
+- Front-end or back-end: review code, write code
 - Always document code: lack of documentation is a bug!
 
 
@@ -460,7 +459,6 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- Marketing is not the same as selling.
 - As simple as introducing and promoting Drupal to people who haven't heard of it
 - Tell someone about how Drupal helped you address your needs
 
@@ -506,6 +504,7 @@ Note:
 
 Note:
 - Putting on events like DrupalCamp St Louis is a tough but rewarding task
+- All kinds of skillsets are needed to organize events
 - Got spare time? Help organize DrupalCamp St. Louis next year
 
 
@@ -516,7 +515,8 @@ Note:
 
 Note:
 - Maybe there aren't any Drupal user groups in your area
-- Start your own!i It can be hyperlocal: meetup at your workplace, school
+- Start your own! It can be hyperlocal: meetup at your workplace, school
+- Set up a regular time and place
 
 
 
