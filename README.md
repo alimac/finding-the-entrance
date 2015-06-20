@@ -459,7 +459,7 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- Introduce and promote Drupal to people who haven't heard of it
+- Introduce Drupal to people who haven't heard of it
 - Tell someone about how Drupal helped you address your needs
 - Boost the signal on social networks
 
@@ -470,9 +470,8 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- Interest areas that have strategic importance for the Drupal projects
-- Configuration management, design, mobile, multi-lingual, web services
-- Topics: accessibility, documentation, performance, testing, usability
+- Interest areas that have strategic importance for the Drupal projects:
+configuration management, design, mobile, multi-lingual, web services
 - [MAINTAINERS.txt](http://cgit.drupalcode.org/drupal/tree/core/MAINTAINERS.txt)
 
 
@@ -533,12 +532,12 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-### Make screenscasts, podcasts
+### Make a podcast
 <!-- .element: class="heading" -->
 
 Note:
 - Somewhere between giving a talk and writing a blog post
-- There are many great podcasts to listen to while you are driving or on a train
+- Several Drupal-related podcasts to listen to while you are driving or on a train
 - There is always room to make your own!
 
 
