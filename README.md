@@ -403,7 +403,7 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- Do you like a challenge? Figuring things out?
+- Do you like figuring things out? Working out a solution within constraints?
 - Support online: forums, chat. In person: at meetups, user groups
 - Providing support makes you smarter and trains your empathy
 
@@ -439,16 +439,16 @@ Note:
 - Do you know a language that's not English?
 - 100+ translations of Drupal
 - Fully translated: Ukrainian, Swedish, Spanish
-- I'm still hoping someone will translate Drupal into Klingon
+- (I'm still hoping someone will translate Drupal into Klingon)
 
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-### Contribute code
+### Contribute to Drupal core
 <!-- .element: class="heading" -->
 
 Note:
-- Do you like writing code?
+- Remember all the contributions that are made on issues?
 - Front-end or back-end: review code, write code
 - Always document code: lack of documentation is a bug!
 
@@ -459,8 +459,9 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- As simple as introducing and promoting Drupal to people who haven't heard of it
+- Introduce and promote Drupal to people who haven't heard of it
 - Tell someone about how Drupal helped you address your needs
+- Boost the signal on social networks
 
 
 
