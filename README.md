@@ -1,5 +1,9 @@
-## <i class="fa fa-sign-in"></i> Finding the Entrance
-####_Why and how to get involved in the Drupal community_
+# <i class="fa fa-sign-in"></i> Finding the Entrance
+## _Why and how to get involved<br> in the Drupal community_
+<hr>
+
+
+<small>DrupalCamp Montréal 2015</small>
 
 
 
