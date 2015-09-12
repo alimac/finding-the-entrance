@@ -232,7 +232,7 @@ Note:
 ## Pierre Buyle
 <!-- .element: class="hidden" -->
 > <i class="fa fa-quote-left"></i>
-> I regularly meet new people with whom I can share Drupal experiences with. This benefits my career, but also my personal development.
+> For me, free software has always been about sharing, not code but knowledge and experiences.
 > <i class="fa fa-quote-right"></i>
 > <span>Pierre Buyle <a href="https://www.drupal.org/u/pbuyle"><i class="fa fa-drupal"></i> pbuyle</a></span>
 <!-- .element: class="quote-source" -->
@@ -294,7 +294,6 @@ Note:
 - Many firsts: working in the issue queue, attending meetups and camps
 - Goal: affordable session recording kit
 - Shares non-Drupal expertise to fill gaps needed in organizing events
-- Superpower: figuring out the mystery of catering
 
 
 
@@ -460,9 +459,9 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- Putting on events like DrupalCamp St Louis is a tough but rewarding task
+- Putting on events like DrupalCamp Montréal is a tough but rewarding task
 - All kinds of skillsets are needed to organize events
-- Got spare time? Help organize DrupalCamp St. Louis next year
+- Got spare time? Help organize DrupalCamp Montréal next year
 
 
 
@@ -507,7 +506,7 @@ Note:
 - Contributed projects are mini-Drupal projects
 - Important to sustain the core project
 - Release your custom code to the community
-- Get others to work on it, fund bugs and make improvements
+- Get others to work on it, find bugs and make improvements
 
 
 
@@ -526,13 +525,13 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-state="show-header" data-header="" -->
-### Join Drupal Association
+### Join <i class="fa fa-heart" style="color: #c00;"></i> <span style="color: #c00;">Montréal</span> Drupal Association
 <!-- .element: class="heading" -->
 
 Note:
 - Drupal association provides community grants and organizes DrupalCons
 - Europe, North America, South America, coming in 2016: Asia
-- Membership start at $15
+- Montréal: provide events, help and support to the Montreal Drupal community
 
 
 
@@ -593,7 +592,6 @@ Note:
 <!-- .element: class="quote-source" -->
 
 Note:
-- Sprint tomorrow: people of all skills welcome
 - Write down top three things about Drupal (or related technologies) that you are interested in, right now.
 - Pick a thing on the list. Maybe break it down into smaller parts, if needed
 - Learn it! And ask questions
