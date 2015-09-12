@@ -314,7 +314,7 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/kandra-photo.jpg" data-state="" data-header="" style="margin-top: 250px; margin-left: 200px;"-->
+<!-- .slide: data-background="custom/images/kandra-photo.jpg" data-state="" data-header="" style="margin-top: -150px; margin-left: 290px;"-->
 ## Karen Da Cruz
 <!-- .element: class="hidden" -->
 ><i class="fa fa-quote-left"></i>
