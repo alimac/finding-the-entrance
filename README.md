@@ -1,51 +1,3 @@
-<!-- .slide: data-background="custom/images/opening-slide-1.png" -->
-
-
-
-
-<!-- .slide: data-background="custom/images/opening-slide-2.png" -->
-
-
-
-
-<!-- .slide: data-background="custom/images/opening-slide-3.png" -->
-
-
-
-
-<!-- .slide: data-background="custom/images/opening-slide-4.jpg" -->
-
-
-
-
-<!-- .slide: data-background="custom/images/opening-slide-5.png" -->
-
-Note:
-- Hello!
-- First time in St. Louis, though I have taken Interstate 55 between Chicago and St. Louis many times
-
-
-
-
-<iframe width='100%' height='650px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/alimac.mej466bj/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoiYWxpbWFjIiwiYSI6Ill4dmFqWDQifQ.2wLpCVaXG-sr8bTo1ueM0A'></iframe>
-
-Note:
-- Came 40 miles short: Staunton, IL
-- Northeast and across the state border
-- Home of Tour de Donut
-
-
-
-<!-- .slide: data-background="custom/images/tour-de-donut.jpg" data-background-size="1068px" -->
-
-Note:
-- 32 mile bike race
-- 2 donut stops along the way
-- For each donut eaten, 5 minutes taken off your ride time
-- Personal record: 2 donuts
-
-
-
 ## <i class="fa fa-sign-in"></i> Finding the Entrance
 ####_Why and how to get involved in the Drupal community_
 
@@ -69,7 +21,8 @@ char • o • jay • ka
 <!-- .element class="fragment" style="word-spacing: 8px;" -->
 
 Note:
-- Developer and system administrator based in Chicago
+- System administrator and web developer based in Chicago
+- Learning organizations, automation and making open source friendly to beginners
 - Doing Drupal for ~4 years, active in the community for ~2 years
 - Where is the Drupal community?
 
