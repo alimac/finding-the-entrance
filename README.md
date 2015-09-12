@@ -219,7 +219,7 @@ Note:
 ## Suzanne Kennedy Dergacheva
 <!-- .element: class="hidden" -->
 > <i class="fa fa-quote-left"></i>
-> When I realized that Drupal was going to the main technology I would work with, getting involved in the community becomes a normal thing to do.
+> I get to meet new Drupal users, get them excited about Drupal and encourage them to get involved and contribute back to Drupal.
 > <i class="fa fa-quote-right"></i>
 > <span>Suzanne Kennedy Dergacheva <a href="https://www.drupal.org/u/pixelite"><i class="fa fa-drupal"></i> pixelite</a></span>
 <!-- .element: class="quote-source" -->
