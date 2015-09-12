@@ -215,67 +215,67 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/eric-the-last.jpg" data-state="show-header" data-header="" style="margin-top: 175px; margin-left: 200px;" -->
-## Eric Brown
+<!-- .slide: data-background="custom/images/pixelite.png" data-state="show-header" data-header="" style="margin-top: -225px; margin-left: -200px;" -->
+## Suzanne Kennedy Dergacheva
 <!-- .element: class="hidden" -->
-> #### Eric Brown <a href="https://www.drupal.org/user/1037606"><i class="fa fa-drupal"></i> ericthelast</a>
 > <i class="fa fa-quote-left"></i>
-> Eric was the cornerstone of the St. Louis user group. He was always the first to offer help to anyone that needed it, and believed strongly in making Drupal accessible to anyone that had interest.
+> When I realized that Drupal was going to the main technology I would work with, getting involved in the community becomes a normal thing to do.
 > <i class="fa fa-quote-right"></i>
-> <span>Cecily Borzillo <a href="https://www.drupal.org/u/cecrs"><i class="fa fa-drupal"></i> cecrs</a></span>
+> <span>Suzanne Kennedy Dergacheva <a href="https://www.drupal.org/u/pixelite"><i class="fa fa-drupal"></i> pixelite</a></span>
 <!-- .element: class="quote-source" -->
 
 Note:
-- Starting off with Eric because this camp is dedicated in his memory
-- I have not met Eric, but by meeting the St. Louis community I am grateful to experience and appreciate the legacy that Eric built here
 
 
 
-<!-- .slide: data-background="custom/images/geerlingguy-photo.jpg" data-background-size="" data-state="show-header" data-header="" style="margin-top: 250px; margin-left: 50px;" -->
-## Jeff Geerling
+<!-- .slide: data-background="custom/images/pbuyle.jpg" data-background-size="" data-state="show-header" data-header="" style="margin-top: 175px; margin-left: 300px;" -->
+## Pierre Buyle
 <!-- .element: class="hidden" -->
 > <i class="fa fa-quote-left"></i>
-> It helps to have a huge network of <span class="highlight">local and regional friends</span>, whether it be on Twitter, in IRC, or in person.
+> I regularly meet new people with whom I can share Drupal experiences with. This benefits my career, but also my personal development.
 > <i class="fa fa-quote-right"></i>
-> <span>Jeff Geerling <a href="https://www.drupal.org/u/geerlingguy"><i class="fa fa-drupal"></i> geerlingguy</a></span>
+> <span>Pierre Buyle <a href="https://www.drupal.org/u/pbuyle"><i class="fa fa-drupal"></i> pbuyle</a></span>
 <!-- .element: class="quote-source" -->
 
 Note:
-- 7 years with St. Louis meetup group, maintainer of Honeypot module, one of maintainers of Drupal.org Packaging Whitelist
-- Local events vs large cons: meet and speak with many more people, sprints are more focused and less overwhelming
-- Reviews patches, submits patches and feedback for core and contributed projects
 
 
 
-<!-- .slide: data-background="#243F63" -->
-## Fredric Mitchell
+<!-- .slide: data-background="custom/images/trevorkjorlien.jpg" data-background-size="" data-state="show-header" data-header="" style="" data-background-size="768px" -->
+## Trevor Kjorlien
 <!-- .element: class="hidden" -->
-> <!-- .element: class="invert" -->
 > <i class="fa fa-quote-left"></i>
-> I've met a lot of great people, from Minneapolis to New York to Costa Rica and San Francisco. Having a <span class="highlight">network to lean on</span> and get support from is always helpful.
+> I’ve really enjoyed getting up in front of an audience and trying to explain difficult concepts in simple ways.
 > <i class="fa fa-quote-right"></i>
-> <span>Fredric Mitchell <a href="https://www.drupal.org/u/fmitchell"><i class="fa fa-drupal"></i> fmitchell</a><br><img src="custom/images/fmitchell-headshot.jpg"></span>
+> <span>Trevor Kjorlien <a href="https://www.drupal.org/u/trevorkjorlien"><i class="fa fa-drupal"></i> trevorkjorlien</a></span>
 <!-- .element: class="quote-source" -->
 
 Note:
-- Mentorship, staying positive and promoting others doing great work
-- First got involved through work
-- Volunteers and speaks at events, promotes Drupal in all his ventures, including own startup
 
 
 
-<!-- .slide: data-background="custom/images/greg-dunlap-cathy-theys.jpg" data-background-size="" data-state="show-header" data-header="Photo: CC-BY Greg Dunlap https://flic.kr/p/eLDNyK" style="margin-top: 200px; margin-left: 150px;" -->
-## Cathy Theys
+<!-- .slide: data-background="" data-background-size="" data-state="show-header" data-header="" -->
+## Andrew Lindsay
 <!-- .element: class="hidden" -->
 ><i class="fa fa-quote-left"></i>
->Being involved has given me interesting problems to solve, access to interesting <span class="highlight">smart people</span>, and has taught me a lot about programming and people. <i class="fa fa-quote-right"></i>
-> <span>Cathy Theys <a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> YesCT</a></span>
+> It's given my career a focus and allowed me to do work that I believe in.
+> <i class="fa fa-quote-right"></i>
+> <span>Andrew Lindsay <a href="https://www.drupal.org/u/mirabuck"><i class="fa fa-drupal"></i> Mirabuck</a><br> <img src="custom/images/Mirabuck.jpg" style=""></span>
 <!-- .element: class="quote-source" -->
 
 Note:
-- Works on Drupal core and mentors new contributors
-- Improving contribution process for new and ongoing contributors
-- Stayed extra days at DrupalCon Denver to join the sprints
+
+
+
+<!-- .slide: data-background="custom/images/mgifford.jpg" data-background-size="" data-state="show-header" data-header="Photo: CC-BY-NC-SA Mike Gifford, cropped https://flic.kr/p/eqJ9y9" style="margin-top: -170px; margin-left: -350px;" -->
+## Mike Gifford
+<!-- .element: class="hidden" -->
+><i class="fa fa-quote-left"></i>
+> The Internet changes so fast. If you don't have a lot of smart folks around you that you can trust, you're never going to be able to keep up.
+> <i class="fa fa-quote-right"></i>
+> <span>Mike Gifford <a href="https://www.drupal.org/u/mgifford"><i class="fa fa-drupal"></i> mgifford</a></span><!-- .element: class="quote-source" -->
+
+Note:
 
 
 
